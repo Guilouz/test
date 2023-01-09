@@ -42,7 +42,7 @@ plugins:
     - search:
         lang: fr
 hide:
-  - footer
+    - footer
 copyright: Copyright &copy; 2023 Guislain Cyril
 extra:
   social:
