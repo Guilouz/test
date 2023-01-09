@@ -9,8 +9,8 @@ theme:
     name: material
     custom_dir: overrides
     language: fr
-    logo: material/library
-    favicon: material/printer-3d-nozzle
+    logo: img/logo.png
+    favicon: img/favicon.png
     font:
         text: Roboto
         code: Roboto Mono
