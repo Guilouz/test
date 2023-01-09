@@ -37,15 +37,17 @@ theme:
         - search.suggest
         - toc.follow
         - toc.integrate
-    plugins:
-        - search:
-            lang: fr
-    extra:
-        social:
-            - icon: fontawesome/brands/github
-              link: https://github.com/Guilouz/Klipper-Flsun-Super-Racer
-            - icon: fontawesome/brands/discord
-              link: https://discord.gg/5gzXKdpX
+plugins:
+    - search:
+        lang: fr
+extra:
+    social:
+        - icon: fontawesome/brands/github
+           link: https://github.com/Guilouz/Klipper-Flsun-Super-Racer
+        - icon: fontawesome/brands/discord
+           link: https://discord.gg/5gzXKdpX
+copyright: Copyright &copy; 2023 Guislain Cyril
+
           
 
 nav:
