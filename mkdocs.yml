@@ -37,10 +37,15 @@ theme:
         - search.suggest
         - toc.follow
         - toc.integrate
+        - navigation.footer
 plugins:
     - search:
         lang: fr
 copyright: Copyright &copy; 2023 Guislain Cyril
+extra:
+  social:
+    - icon: simple/discord
+      link: https://discord.gg/5gzXKdpX
 
           
 
