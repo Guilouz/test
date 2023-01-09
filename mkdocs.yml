@@ -2,8 +2,8 @@ site_name: Klipper pour FLSUN Super Racer
 site_description: >-
   Documentation.
 
-repo_name: Guilouz/Klipper-Flsun-Super-Racer/
-repo_url: https://github.com/Guilouz/Klipper-Flsun-Super-Racer
+repo_name: Téléchargement du Pack
+repo_url: https://github.com/Guilouz/Klipper-Flsun-Super-Racer/releases
 
 theme:
     name: material
