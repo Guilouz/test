@@ -1,8 +1,8 @@
 # Informations
 
-•   En collaboration avec la chaîne YouTube JSTECH, vous trouverez dans ce Pack tout le nécessaire à l’utilisation de Klipper sur la FLSUN Super Racer.
+En collaboration avec la chaîne :simple-youtube: [YouTube JSTECH](https://www.youtube.com/@Jstech3d), vous trouverez dans ce Pack tout le nécessaire à l’utilisation de Klipper sur la FLSUN Super Racer.
 
-•   Le pack comprend : 
+Le pack comprend : 
 	-	La procédure d’installation de MainsailOS (système d’exploitation du Raspberry Pi)
 	-	La procédure de connexion via le protocole SSH
 	-	La procédure de mise à jour du système d’exploitation
