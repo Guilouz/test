@@ -40,7 +40,6 @@ theme:
         - toc.follow
         - toc.integrate
         - navigation.footer
-        - announce.dismiss
 plugins:
     - search:
         lang: fr
