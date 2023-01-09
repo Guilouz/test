@@ -9,7 +9,7 @@ theme:
     name: material
     custom_dir: overrides
     language: fr
-    logo: material/printer-3d-nozzle
+    logo: material/library
     favicon: material/printer-3d-nozzle
     font:
         text: Roboto
