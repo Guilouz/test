@@ -41,10 +41,9 @@ theme:
 plugins:
     - search:
         lang: fr
-hide:
-    - footer
 copyright: Copyright &copy; 2023 Guislain Cyril
 extra:
+  generator: false
   social:
     - icon: simple/discord
       link: https://discord.gg/5gzXKdpX
