@@ -1,4 +1,4 @@
-# Introduction
+# Introduction # 1
 
 By default FLSun does not use builds from official GitHub repositories. Updates point to Gitee repositories which are very slow, sometimes inaccessible and not updated. In addition, during Delta Calibration, tower angles and delta radius are never recalculated in their Klipper build, which can cause several issues.
 
