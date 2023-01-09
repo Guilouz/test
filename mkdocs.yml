@@ -41,13 +41,17 @@ theme:
 plugins:
     - search:
         lang: fr
+hide:
+  - footer
 copyright: Copyright &copy; 2023 Guislain Cyril
 extra:
   social:
     - icon: simple/discord
       link: https://discord.gg/5gzXKdpX
-
-          
+    - icon: simple/tiktok
+      link: https://tiktok.com/@guilouz
+    - icon: simple/twitter
+      link: https://twitter.com/Guilouz
 
 nav:
       - Introduction: index.md
