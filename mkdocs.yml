@@ -11,6 +11,8 @@ theme:
     language: fr
     logo: img/logo.png
     favicon: img/favicon.png
+    icon:
+        repo: material/download
     font:
         text: Roboto
         code: Roboto Mono
