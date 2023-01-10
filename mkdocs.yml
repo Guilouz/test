@@ -18,14 +18,14 @@ theme:
         - media: "(prefers-color-scheme: light)"
           scheme: default
           primary: green
-          accent: light green
+          accent: green
           toggle:
             icon: material/brightness-7
             name: Dark Mode
         - media: "(prefers-color-scheme: dark)"
           scheme: slate
           primary: green
-          accent: light green
+          accent: green
           toggle:
             icon: material/brightness-4
             name: Light Mode
@@ -33,11 +33,10 @@ theme:
         - content.code.copy
         - content.code.annotate
         - navigation.top
-        - navigation.sections
+        - navigation.expand
         - search.highlight
         - search.share
         - search.suggest
-        - toc.integrate
 extra_css:
     - 'stylesheets/extra.css'
 plugins:
