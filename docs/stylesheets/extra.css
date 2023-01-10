@@ -2,7 +2,6 @@
     	color: #09991c;
 }
 
-[data-md-color-scheme="slate"] {
-	.md-nav__title {
-    	color: #0022ff;
+.md-nav__item--section>.md-nav__link[for] {
+    color: #09991c;
 }
