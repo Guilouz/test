@@ -8,7 +8,7 @@ theme:
     name: material
     custom_dir: overrides
     extra_css:
-        - docs/css/extra.css
+        - stylesheets/extra.css
     language: fr
     logo: img/logo.png
     favicon: img/favicon.png
