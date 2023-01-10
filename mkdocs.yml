@@ -35,7 +35,7 @@ theme:
         - content.code.annotate
         - navigation.indexes
         - navigation.top
-        - navigation.expand
+        - navigation.sections
         - search.highlight
         - search.share
         - search.suggest
