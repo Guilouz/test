@@ -8,7 +8,7 @@ theme:
     name: material
     custom_dir: overrides
     extra_css:
-        - css/extra.css
+        - docs/css/extra.css
     language: fr
     logo: img/logo.png
     favicon: img/favicon.png
@@ -44,7 +44,7 @@ theme:
 plugins:
     - search:
         lang: fr
-copyright: Copyright &copy; 2023 Guislain Cyril
+copyright: &copy; Guislain Cyril
 extra:
   generator: false
   social:
