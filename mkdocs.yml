@@ -31,7 +31,6 @@ theme:
           toggle:
             icon: material/brightness-4
             name: Light Mode
-        scheme: youtube
     features:
         - content.code.copy
         - content.code.annotate
