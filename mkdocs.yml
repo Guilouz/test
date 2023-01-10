@@ -63,6 +63,7 @@ nav:
     - Informations: index.md
     - Liens Utiles: liens-utiles.md
     - Changelog: changelog.md
+    - Support: support.md
     - Installation:
         - Pré-Requis: installation/pre-requis.md
         - MainsailOS: installation/mainsailos.md
@@ -79,6 +80,7 @@ nav:
             - Waveshare 7inch Capacitive Touch Screen: ecran/waveshare.md
         - ADXL: configurations/adxl.md
         - NeoPixels: configurations/neopixels.md
+        - Thème Mainsail: theme-mainsail.md
     - Firmwares Klipper:
         - MKS Robin Nano v3.x:
             - Compilation: firmwares/compilation-mks-robin-nano.md
@@ -89,7 +91,12 @@ nav:
         - BigTreeTech SKR 2.0:
             - Compilation: firmwares/compilation-btt-skr2.0.md
             - Installation: firmwares/installation-btt-skr2.0.md
-    - Explications des fichiers: explications-des-fichiers.md
-    - Calibrations: calibrations.md
-    - Thème Mainsail: theme-mainsail.md
-    - Support: support.md
+    - Calibrations de l'imprimante: 
+        - Calibration Extrudeur: calibrations/extrudeur.md
+        - Calibration PID: calibrations/pid.md
+        - Mesure du Z-Offset: calibrations/zoffset.md
+        - Calibration EndStops: calibrations/endstops.md
+        - Calibration Delta Automatique: calibrations/delta-automatique.md
+        - Nivellement du Plateau: calibrations/nivellement.md
+        - Compensation de Résonances: calibrations/input-shapper.md
+        - Explications des fichiers: explications-des-fichiers.md
