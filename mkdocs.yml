@@ -6,8 +6,6 @@ repo_url: https://github.com/Guilouz/Klipper-Flsun-Super-Racer/releases
 
 theme:
     name: material
-    extra_css:
-        - stylesheets/extra.css
     language: fr
     logo: img/logo.png
     favicon: img/favicon.png
@@ -43,6 +41,8 @@ plugins:
     - search:
         lang: fr
 copyright: Guislain Cyril &copy; 
+extra_css:
+    - stylesheets/extra.css
 extra:
   generator: false
   social:
