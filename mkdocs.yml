@@ -33,12 +33,11 @@ theme:
     features:
         - content.code.copy
         - content.code.annotate
-        - navigation.indexes
         - navigation.top
         - search.highlight
         - search.share
         - search.suggest
-        - toc.follow
+        - toc.integrate
         - toc.integrate
 plugins:
     - search:
