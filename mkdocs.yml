@@ -37,6 +37,7 @@ theme:
         - search.highlight
         - search.share
         - search.suggest
+        - toc.integrate
 extra_css:
     - 'stylesheets/extra.css'
 plugins:
