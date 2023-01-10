@@ -36,11 +36,10 @@ theme:
         - content.code.copy
         - content.code.annotate
         - navigation.top
+        - navigation.sections
         - search.highlight
         - search.share
         - search.suggest
-        - toc.integrate
-        - toc.integrate
 plugins:
     - search:
         lang: fr
