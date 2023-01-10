@@ -48,7 +48,7 @@ copyright: Copyright &copy; 2023 Guislain Cyril
 extra:
   generator: false
   social:
-    - icon: fontawesome-brands-cc-paypal 
+    - icon: fontawesome/brands/cc-paypal
       link: https://www.paypal.me/CyrilGuislain
     - icon: simple/discord
       link: https://discord.gg/5gzXKdpX
