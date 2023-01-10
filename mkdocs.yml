@@ -17,7 +17,6 @@ theme:
         text: Roboto
         code: Roboto Mono
     palette:
-        scheme: youtube
         - media: "(prefers-color-scheme: light)"
           scheme: default
           primary: green
@@ -31,7 +30,8 @@ theme:
           accent: light green
           toggle:
             icon: material/brightness-4
-            name: Light Mode      
+            name: Light Mode
+        scheme: youtube
     features:
         - content.code.copy
         - content.code.annotate
