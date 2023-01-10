@@ -1,7 +1,8 @@
-[data-md-color-scheme="light"] {
-  --md-default-fg-color--light: #000000;
+.md-nav__title {
+    	color: #09991c;
 }
 
 [data-md-color-scheme="slate"] {
-  --md-default-fg-color--light: #FF0000;
+	.md-nav__title {
+    	color: #0022ff;
 }
