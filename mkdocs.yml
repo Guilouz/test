@@ -37,12 +37,11 @@ theme:
         - search.highlight
         - search.share
         - search.suggest
-plugins:
-    - search:
-        lang: fr
-copyright: Guislain Cyril &copy; 
 extra_css:
     - stylesheets/extra.css
+plugins:
+    - search
+copyright: Guislain Cyril &copy; 
 extra:
   generator: false
   social:
