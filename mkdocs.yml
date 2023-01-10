@@ -17,6 +17,7 @@ theme:
         text: Roboto
         code: Roboto Mono
     palette:
+        scheme: youtube
         - media: "(prefers-color-scheme: light)"
           scheme: default
           primary: green
@@ -75,7 +76,9 @@ nav:
         - Changements coté Slicers:
             - GCode de Début / Fin: configurations/gcode-de-debut-fin.md
             - Rétraction Firmware: configurations/retraction-firmware.md
-        - Ecran avec KlipperScreen: configurations/ecran-avec-klipperscreen.md
+        - Ecran avec KlipperScreen: 
+            - Raspberry Pi Touch Display: ecran/raspberry.md
+            - Waveshare 7inch Capacitive Touch Screen: ecran/waveshare.md
         - ADXL: configurations/adxl.md
         - NeoPixels: configurations/neopixels.md
     - Firmwares Klipper:
