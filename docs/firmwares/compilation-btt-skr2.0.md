@@ -14,8 +14,3 @@ Le pack comprend :
 - La procédure d’installation ADXL du Fysetc Portable Input Shaper
 - La procédure d’utilisation des NeoPixels
 - Les fichiers de configurations nécessaires
-
-
-Si vous aimez mon travail, n'hésitez pas à me soutenir en me payant une :beer: ou un :coffee:. Merci :smiley:
-
-
