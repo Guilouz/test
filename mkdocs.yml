@@ -35,13 +35,11 @@ theme:
         - content.code.annotate
         - navigation.indexes
         - navigation.top
-        - navigation.sections
         - search.highlight
         - search.share
         - search.suggest
         - toc.follow
         - toc.integrate
-        - navigation.footer
 plugins:
     - search:
         lang: fr
