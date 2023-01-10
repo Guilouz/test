@@ -7,6 +7,8 @@ repo_url: https://github.com/Guilouz/Klipper-Flsun-Super-Racer/releases
 theme:
     name: material
     custom_dir: overrides
+    extra_css:
+        - css/extra.css
     language: fr
     logo: img/logo.png
     favicon: img/favicon.png
