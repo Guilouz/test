@@ -41,7 +41,7 @@ extra_css:
     - 'stylesheets/extra.css'
 plugins:
     - search
-copyright: Guislain Cyril &copy; 
+copyright: Guislain Cyril &copy; Tous droits réservés
 extra:
   generator: false
   social:
