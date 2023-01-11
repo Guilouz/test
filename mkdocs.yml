@@ -15,6 +15,7 @@ theme:
         text: Roboto
         code: Roboto Mono
     palette:
+        scheme: youtube
         - media: "(prefers-color-scheme: light)"
           scheme: default
           primary: green
