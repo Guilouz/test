@@ -5,7 +5,7 @@ hide:
 
 # Informations
 
-En collaboration avec la chaîne :simple-youtube: [YouTube JSTECH](https://www.youtube.com/@Jstech3d), vous trouverez dans ce Pack tout le nécessaire à l’utilisation de Klipper sur la FLSUN Super Racer.
+En collaboration avec la chaîne :simple-youtube: <a href="https://www.youtube.com/@Jstech3d" target="_blank">YouTube JSTECH</a>, vous trouverez dans ce Pack tout le nécessaire à l’utilisation de Klipper sur la FLSUN Super Racer.
 
 Le pack comprend :
 
