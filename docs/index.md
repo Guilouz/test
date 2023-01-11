@@ -26,4 +26,8 @@ Si vous aimez mon travail, n'hésitez pas à me soutenir en me payant une 🍺 o
 
 ![paypal](https://user-images.githubusercontent.com/12702322/211445698-69ce23a8-adea-4eb2-ba7a-835791e3aafa.png)
 
+<br />
+
+<div align="right">Vous pouvez commencer pour consulter la section :material-arrow-right-box: [Liens Utiles](liens-utiles.md).</div>
+
 
