@@ -99,4 +99,5 @@ nav:
         - Calibration Delta Automatique: calibrations/delta-automatique.md
         - Nivellement du Plateau: calibrations/nivellement.md
         - Compensation de Résonances: calibrations/input-shapper.md
+        - Pressure Advance: calibrations/pressure-advance.md
         - Explications des fichiers: explications-des-fichiers.md
