@@ -10,14 +10,14 @@ En collaboration avec la chaîne :simple-youtube: <a href="https://www.youtube.c
 Le pack comprend :
 
 - Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 1.3</u> en version Stock
-- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 1.3</u> avec extrudeur Bondtech LGX Lite
-- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 1.3</u> avec extrudeur Bondtech LGX Lite et bloc de chauffe TriangleLab CHC Pro
+- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 1.3</u> + <u>Bondtech LGX Lite</u>
+- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 1.3</u> + <u>Bondtech LGX Lite</u> + <u>TriangleLab CHC Pro</u>
 - Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 2.0</u> en version Stock
-- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 2.0</u> avec extrudeur Bondtech LGX Lite
-- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 2.0</u> avec extrudeur Bondtech LGX Lite et bloc de chauffe TriangleLab CHC Pro
+- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 2.0</u> + <u>Bondtech LGX Lite</u>
+- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 2.0</u> + <u>Bondtech LGX Lite</u> + <u>TriangleLab CHC Pro</u>
 - Les fichiers de configuration pour les cartes mères <u>MKS Robin Nano V3.0/V3.1</u> en version Stock
-- Les fichiers de configuration pour les cartes mères <u>MKS Robin Nano V3.0/V3.1</u> avec extrudeur Bondtech LGX Lite
-- Les fichiers de configuration pour les cartes mères <u>MKS Robin Nano V3.0/V3.1</u> avec extrudeur Bondtech LGX Lite et bloc de chauffe TriangleLab CHC Pro
+- Les fichiers de configuration pour les cartes mères <u>MKS Robin Nano V3.0/V3.1</u> + <u>Bondtech LGX Lite</u>
+- Les fichiers de configuration pour les cartes mères <u>MKS Robin Nano V3.0/V3.1</u> + <u>Bondtech LGX Lite</u> + <u>TriangleLab CHC Pro</u>
 - Certains STL nécessaires
 
 
