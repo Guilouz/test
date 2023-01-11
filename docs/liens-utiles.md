@@ -7,26 +7,26 @@ hide:
 
 Avant d'utiliser Klipper, veuillez consulter ces documentations :
 
-- Klipper (Système Opérateur) : [https://www.klipper3d.org/](https://www.klipper3d.org/)
-- Moonraker (Serveur Web API) : [https://moonraker.readthedocs.io/](https://moonraker.readthedocs.io/)
-- Mainsail (Interface Web) : [https://docs.mainsail.xyz/](https://docs.mainsail.xyz/)
-- KlipperScreen (Interface Ecran): [https://klipperscreen.readthedocs.io/](https://klipperscreen.readthedocs.io/)
+- Klipper (Système Opérateur) : <a href="https://www.klipper3d.org/" target="_blank">https://www.klipper3d.org/</a>
+- Moonraker (Serveur Web API) : <a href="https://moonraker.readthedocs.io/" target="_blank">https://moonraker.readthedocs.io/</a>
+- Mainsail (Interface Web) : <a href="https://docs.mainsail.xyz/" target="_blank">https://docs.mainsail.xyz/</a>
+- KlipperScreen (Interface Ecran): <a href="https://klipperscreen.readthedocs.io/" target="_blank">https://klipperscreen.readthedocs.io/</a>
 
 <br />
 
 # Vidéos :simple-youtube: YouTube JSTECH
 
-- [On Jase ! De Klipper, je vous donne mon opinion](https://www.youtube.com/watch?v=MDrla0SI0yc&t=5s)
-- [Klipper première vidéo, je prépare mon imprimante](https://www.youtube.com/watch?v=qM-jBRMGjTc)
-- [Enfin ! J'installe Klipper dans ma Flsun SR](https://www.youtube.com/watch?v=8YD-KOxrrXk)
+- <a href="https://www.youtube.com/watch?v=MDrla0SI0yc&t=5s" target="_blank">On Jase ! De Klipper, je vous donne mon opinion</a>
+- <a href="https://www.youtube.com/watch?v=qM-jBRMGjTc" target="_blank">Klipper première vidéo, je prépare mon imprimante</a>
+- <a href="https://www.youtube.com/watch?v=8YD-KOxrrXk" target="_blank">Enfin ! J'installe Klipper dans ma Flsun SR</a>
 - A venir...
 
 <br />
 
 # STL utiles
 
-- Support pour Fysetc Portable Input Shaper : [https://www.thingiverse.com/thing:5634625](https://www.thingiverse.com/thing:5634625)
-- Support NeoPixels Ring Light : [https://www.printables.com/model/272995-flsun-neopixels-ring-light-support](https://www.printables.com/model/272995-flsun-neopixels-ring-light-support)
+- Support pour Fysetc Portable Input Shaper : <a href="https://www.thingiverse.com/thing:5634625" target="_blank">https://www.thingiverse.com/thing:5634625</a>
+- Support NeoPixels Ring Light : <a href="https://www.printables.com/model/272995-flsun-neopixels-ring-light-support" target="_blank">https://www.printables.com/model/272995-flsun-neopixels-ring-light-support</a>
 - Certains STL sont fournis dans le dossier STL du Pack.                                                                  
 
 <br />
