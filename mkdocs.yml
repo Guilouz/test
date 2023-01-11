@@ -38,7 +38,7 @@ theme:
         - search.share
         - search.suggest
 extra_css:
-    - 'stylesheets/extra.css'
+    - 'css/extra.css'
 plugins:
     - search
 copyright: Guislain Cyril &copy; Tous droits réservés
