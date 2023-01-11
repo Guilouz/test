@@ -7,10 +7,10 @@ hide:
 
 Avant d'utiliser Klipper, veuillez consulter ces documentations :
 
-- Klipper (Système Opérateur) : https://www.klipper3d.org/
-- Moonraker (Serveur Web API) : https://moonraker.readthedocs.io/
-- Mainsail (Interface Web) : https://docs.mainsail.xyz/
-- KlipperScreen (Interface Ecran): https://klipperscreen.readthedocs.io/
+- Klipper (Système Opérateur) : [https://www.klipper3d.org/](https://www.klipper3d.org/)
+- Moonraker (Serveur Web API) : [https://moonraker.readthedocs.io/](https://moonraker.readthedocs.io/)
+- Mainsail (Interface Web) : [https://docs.mainsail.xyz/](https://docs.mainsail.xyz/)
+- KlipperScreen (Interface Ecran): [https://klipperscreen.readthedocs.io/](https://klipperscreen.readthedocs.io/)
 
 <br />
 
@@ -25,8 +25,8 @@ Avant d'utiliser Klipper, veuillez consulter ces documentations :
 
 # STL utiles
 
-- Support pour Fysetc Portable Input Shaper : https://www.thingiverse.com/thing:5634625
-- Support NeoPixels Ring Light : https://www.printables.com/model/272995-flsun-neopixels-ring-light-support
+- Support pour Fysetc Portable Input Shaper : [https://www.thingiverse.com/thing:5634625](https://www.thingiverse.com/thing:5634625)
+- Support NeoPixels Ring Light : [https://www.printables.com/model/272995-flsun-neopixels-ring-light-support](https://www.printables.com/model/272995-flsun-neopixels-ring-light-support)
 - Certains STL sont fournis dans le dossier STL du Pack.                                                                  
 
 <br />
