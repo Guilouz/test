@@ -1,4 +1,4 @@
-# Lien utlies
+# Lien utiles
 
 Avant d'utiliser Klipper, veuillez consulter ces documentations :
 
