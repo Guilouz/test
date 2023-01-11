@@ -5,20 +5,21 @@ hide:
 
 # Informations
 
-En collaboration avec la chaîne :simple-youtube: <a href="https://www.youtube.com/@Jstech3d" target="_blank">YouTube JSTECH</a>, vous trouverez dans ce Pack tout le nécessaire à l’utilisation de Klipper sur la FLSUN Super Racer.
+En collaboration avec la chaîne :simple-youtube: <a href="https://www.youtube.com/@Jstech3d" target="_blank">YouTube JSTECH</a>, vous trouverez ici toutes les étapes et le nécessaire à l’utilisation de Klipper sur la FLSUN Super Racer.
 
 Le pack comprend :
 
-- La procédure d’installation de MainsailOS (système d’exploitation du Raspberry Pi)
-- La procédure de connexion via le protocole SSH
-- La procédure de mise à jour du système d’exploitation
-- La procédure de compilation et d’installation du firmware
-- La procédure de calibration de l’imprimante
-- Les changements à effectuer dans les Slicers
-- La procédure d’installation pour l’écran (KlipperScreen)
-- La procédure d’installation ADXL du Fysetc Portable Input Shaper
-- La procédure d’utilisation des NeoPixels
-- Les fichiers de configurations nécessaires
+- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 1.3</u> en version Stock
+- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 1.3</u> avec extrudeur Bondtech LGX Lite
+- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 1.3</u> avec extrudeur Bondtech LGX Lite et bloc de chauffe TriangleLab CHC Pro
+- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 2.0</u> en version Stock
+- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 2.0</u> avec extrudeur Bondtech LGX Lite
+- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 2.0</u> avec extrudeur Bondtech LGX Lite et bloc de chauffe TriangleLab CHC Pro
+- Les fichiers de configuration pour les cartes mères <u>MKS Robin Nano V3.0/V3.1</u> en version Stock
+- Les fichiers de configuration pour les cartes mères <u>MKS Robin Nano V3.0/V3.1</u> avec extrudeur Bondtech LGX Lite
+- Les fichiers de configuration pour les cartes mères <u>MKS Robin Nano V3.0/V3.1</u> avec extrudeur Bondtech LGX Lite et bloc de chauffe TriangleLab CHC Pro
+- Certains STL nécessaires
+
 
 <br />
 
