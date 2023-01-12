@@ -92,5 +92,5 @@ Comme indiqué dans la capture d'écran ci-dessus, votre URL sera : <a href="htt
 
 <br />
 
-Vous pouvez ensuite continuer vers la section :material-arrow-right-box: [Connexion SSH](connexion-ssh.md).
+Vous pouvez ensuite continuer vers la section :material-arrow-right-box: [Connexion SSH sous Windows](ssh/windows.md) ou [Connexion SSH sous macOS](ssh/macos.md).
 
