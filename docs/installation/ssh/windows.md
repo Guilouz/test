@@ -11,7 +11,7 @@ hide:
 
 ![01](../../assets/img/installation/ssh/windows/01.png){ width="600" }
  
-- Une fois démarré cliquez sur Analyser :
+- Une fois démarré cliquez sur **Analyser** :
 
 ![02](../../assets/img/installation/ssh/windows/02.png){ width="600" }
  
