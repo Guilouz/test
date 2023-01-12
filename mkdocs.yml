@@ -89,7 +89,8 @@ nav:
         - Changements coté Slicers:
             - GCode de Début / Fin: configurations/gcode-de-debut-fin.md
             - Rétraction Firmware: configurations/retraction-firmware.md
-        - Ecran avec KlipperScreen: 
+        - Ecran avec KlipperScreen:
+            - BigTreetTech PITFT43/50/70: configurations/ecran/btt-pitft.md
             - Raspberry Pi Touch Display: configurations/ecran/raspberry.md
             - Waveshare 7inch Capacitive Touch Screen: configurations/ecran/waveshare.md
         - ADXL: configurations/adxl.md

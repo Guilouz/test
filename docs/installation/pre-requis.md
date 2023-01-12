@@ -19,6 +19,7 @@ Vous trouverez ici la liste de matériel recommandé à la bonne utilisation de 
 
 ### Matériels facultatifs mais fortement recommandés :
 <ul>
+  <li>Écran BigTreeTech PITFT43/50/70 (DSI) : <a href="https://tinyurl.com/mpe3738n" target="_blank">https://tinyurl.com/mpe3738n</a></li>
   <li>Écran Raspberry Pi Touch Display officiel (DSI) : <a href="https://amzn.to/3GY9l79" target="_blank">https://amzn.to/3GY9l79</a> ou <a href="https://tinyurl.com/24mjpu5k" target="_blank">https://tinyurl.com/24mjpu5k</a></li>
   <li>Écran Waveshare 7inch Capacitive Touch Screen LCD (H) (HDMI) : <a href="https://amzn.to/3Qmhky2" target="_blank">https://amzn.to/3Qmhky2</a> ou <a href="https://tinyurl.com/2p8x2mms" target="_blank">https://tinyurl.com/2p8x2mms</a></li>
   <li>ADXL USB FYSETC Portable Input Shaper : <a href="https://tinyurl.com/5n7uukna" target="_blank">https://tinyurl.com/5n7uukna</a></li>
