@@ -1,16 +1,31 @@
-# Informations
+---
+hide:
+  - toc
+---
 
-En collaboration avec la chaîne :simple-youtube: [YouTube JSTECH](https://www.youtube.com/@Jstech3d), vous trouverez dans ce Pack tout le nécessaire à l’utilisation de Klipper sur la FLSUN Super Racer.
+# Pré-Requis
 
-Le pack comprend :
+Vous trouverez ici la liste de matériel recommandé à la bonne utilisation de Klipper :
 
-- La procédure d’installation de MainsailOS (système d’exploitation du Raspberry Pi)
-- La procédure de connexion via le protocole SSH
-- La procédure de mise à jour du système d’exploitation
-- La procédure de compilation et d’installation du firmware
-- La procédure de calibration de l’imprimante
-- Les changements à effectuer dans les Slicers
-- La procédure d’installation pour l’écran (KlipperScreen)
-- La procédure d’installation ADXL du Fysetc Portable Input Shaper
-- La procédure d’utilisation des NeoPixels
-- Les fichiers de configurations nécessaires
+
+### Matériels nécessaires :
+
+- Raspberry Pi 3B/3B+ ou au mieux Raspberry Pi 4B mais le Raspberry Pi Zero 2W fonctionne aussi
+- Une carte microSD d'une capacité de 16Go minimum avec une vitesse de lecture/écriture assez élevée
+- Une alimentation Raspberry Pi si branchement en externe<
+- Une alimentation Meanwell RS-25-5 si branchement en interne : :simple-amazon: <a href="https://amzn.to/3XdFRr5" target="_blank">https://amzn.to/3XdFRr5</a> ou :material-web: <a href="https://tinyurl.com/bdehnpmt" target="_blank">https://tinyurl.com/bdehnpmt</a>
+
+### Matériels facultatifs mais fortement recommandés :
+<ul>
+  <li>Écran Raspberry Pi Touch Display officiel (DSI) : :simple-amazon: <a href="https://amzn.to/3GY9l79" target="_blank">https://amzn.to/3GY9l79</a> ou :material-web: <a href="https://tinyurl.com/24mjpu5k" target="_blank">https://tinyurl.com/24mjpu5k</a></li>
+  <li>Écran Waveshare 7inch Capacitive Touch Screen LCD (H) (HDMI) : :simple-amazon: <a href="https://amzn.to/3Qmhky2" target="_blank">https://amzn.to/3Qmhky2</a> ou :material-web: <a href="https://tinyurl.com/2p8x2mms" target="_blank">https://tinyurl.com/2p8x2mms</a></li>
+  <li>ADXL USB FYSETC Portable Input Shaper : :material-web: <a href="https://tinyurl.com/5n7uukna" target="_blank">https://tinyurl.com/5n7uukna</a></li>
+</ul>
+
+<br />
+
+<u>Note :</u> D'autres écran peuvent fonctionner sans problème cependant assurez-vous qu'ils ne nécessitent pas d'autres configurations spécifiques.
+
+<br />
+
+Une fois le matériel nécessaire en votre possession vous pouvez poursuivre vers la section :material-arrow-right-box: [MainsailOS](mainsailos.md).
