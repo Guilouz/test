@@ -18,15 +18,26 @@ Vous trouverez ici la liste de matériel recommandé à la bonne utilisation de 
 </ul>
 
 ### Matériels facultatifs mais fortement recommandés :
+
+#### Écrans DSI :
 <ul>
   <li>Écran BigTreeTech PITFT43/50/70 (DSI) : <a href="https://tinyurl.com/mpe3738n" target="_blank">https://tinyurl.com/mpe3738n</a></li>
   <li>Écran officiel Raspberry Pi Touch Display (DSI) : <a href="https://amzn.to/3XseAlc" target="_blank">https://amzn.to/3XseAlc</a> ou <a href="https://tinyurl.com/24mjpu5k" target="_blank">https://tinyurl.com/24mjpu5k</a></li>
+  <li>Une nappe DSI : <a href="https://amzn.to/3XiaTOY" target="_blank">https://amzn.to/3XiaTOY</a></li>
+</ul>
+
+#### Écrans HDMI :
+<ul>
+  <li>Écran BigTreeTech HDMI5/HDMI7 (HDMI) : <a href="https://tinyurl.com/mr494cbz" target="_blank">https://tinyurl.com/mr494cbz</a></li>
   <li>Écran Waveshare 7inch Capacitive Touch Screen LCD (H) (HDMI) : <a href="https://amzn.to/3CIERne" target="_blank">https://amzn.to/3CIERne</a> ou <a href="https://tinyurl.com/2p8x2mms" target="_blank">https://tinyurl.com/2p8x2mms</a></li>
-  <li>Une nappe DSI si utilisation d'un écran DSI : <a href="https://amzn.to/3XiaTOY" target="_blank">https://amzn.to/3XiaTOY</a></li>
-  <li>Un câble micro HDMI mâle vers HDMI mâle si utilisation d'un écran HDMI avec un Rapsberry Pi 4B</li>
-  <li>Un câble HDMI mâle vers HDMI mâle si utilisation d'un écran HDMI avec un Rapsberry Pi 3B/3B+</li>
-  <li>Un câble mini HDMI mâle vers HDMI mâle si utilisation d'un écran HDMI avec un Rapsberry Pi Zero 2W</li>
+  <li>Un câble HDMI (vérifiez bien le type de câble nécessaire en fonction du Raspberry Pi utilisé)</li>
+  <li>Un câble USB pour alimenter l'écran (vérifiez bien le type de câble nécessaire en fonction de l'écran utilisé)</li>
+</ul>
+
+#### ADXL :
+<ul>
   <li>ADXL USB FYSETC Portable Input Shaper : <a href="https://tinyurl.com/5n7uukna" target="_blank">https://tinyurl.com/5n7uukna</a></li>
+  <li>Un câble USB-C vers USB pour l'utilisation de l'ADXL USB (vérifiez bien le type de câble nécessaire en fonction du Raspberry Pi utilisé)</li>
 </ul>
 
 <br />
