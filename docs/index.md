@@ -25,7 +25,7 @@ Le pack comprend :
 
 Si vous aimez mon travail, n'hésitez pas à me soutenir en me payant une 🍺 ou un ☕. Merci 🙂
 
-[:fontawesome-brands-cc-paypal: Faire un don PayPal :fontawesome-brands-cc-paypal:](https://www.paypal.me/CyrilGuislain){ .md-button .md-button--primary }
+[Faire un don :simple-paypal: PayPal](https://www.paypal.me/CyrilGuislain){ .md-button .md-button--primary }
 
 <br />
 
