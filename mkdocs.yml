@@ -52,7 +52,7 @@ plugins:
         slide_effect: slide
         width: 100%
         height: auto
-        zoomable: false
+        zoomable: true
         draggable: true
         skip_classes:
             - zoom-off
