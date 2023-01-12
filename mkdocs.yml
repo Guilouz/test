@@ -41,6 +41,8 @@ extra_css:
     - 'css/extra.css'
 plugins:
     - search
+    - privacy:
+        external_links: true
 copyright: Guislain Cyril &copy; Tous droits réservés
 extra:
   generator: false
