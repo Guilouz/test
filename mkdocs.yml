@@ -80,7 +80,7 @@ nav:
             - Waveshare 7inch Capacitive Touch Screen: ecran/waveshare.md
         - ADXL: configurations/adxl.md
         - NeoPixels: configurations/neopixels.md
-        - Thème Mainsail: theme-mainsail.md
+        - Thème Mainsail: configurations/theme-mainsail.md
     - Firmwares Klipper:
         - MKS Robin Nano v3.x:
             - Compilation: firmwares/compilation-mks-robin-nano.md
@@ -100,4 +100,4 @@ nav:
         - Nivellement du Plateau: calibrations/nivellement.md
         - Compensation de Résonances: calibrations/input-shapper.md
         - Pressure Advance: calibrations/pressure-advance.md
-        - Explications des fichiers: explications-des-fichiers.md
+        - Explications des fichiers: calibrations/explications-des-fichiers.md
