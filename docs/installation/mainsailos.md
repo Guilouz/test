@@ -10,7 +10,7 @@ hide:
 
 - Lors de l'ouverture de Raspberry Pi Imager, les éléments suivants s'affichent :
 
-[01](../assets/img/installation/mainsailos/01.png)
+![01](../assets/img/installation/mainsailos/01.png)
 
 - Insérez votre carte microSD dans votre ordinateur.
 
@@ -18,47 +18,47 @@ hide:
 
 - Faites défiler jusqu'à **Formatter** :
 
-[02](../assets/img/installation/mainsailos/02.png)
+![02](../assets/img/installation/mainsailos/02.png)
 
 - Cliquez sur **CHOISISSEZ LE STOCKAGE** et sélectionnez votre carte microSD :
 
-[03](../assets/img/installation/mainsailos/03.png)
+![03](../assets/img/installation/mainsailos/03.png)
 
 - Cliquez ensuite sur **ECRIRE** et confirmez le formatage de la carte microSD :
 
-[04](../assets/img/installation/mainsailos/04.png)
+![04](../assets/img/installation/mainsailos/04.png)
  
 - Une fois l'opération terminée sélectionnez **FORMATTER** :
 
-[05](../assets/img/installation/mainsailos/05.png)
+![05](../assets/img/installation/mainsailos/05.png)
 
 - Faites défiler jusqu'à **Other specific-purpose OS** :
 
-[06](../assets/img/installation/mainsailos/06.png)
+![06](../assets/img/installation/mainsailos/06.png)
 
 - Sélectionnez **3D printing** :
 
-[07](../assets/img/installation/mainsailos/07.png)
+![07](../assets/img/installation/mainsailos/07.png)
 
 - Sélectionnez **Mainsail OS** :
  
-[08](../assets/img/installation/mainsailos/08.png)
+![08](../assets/img/installation/mainsailos/08.png)
 
 - Sélectionnez la version désirée (32-bit ou 64-bit) :
 
-[09](../assets/img/installation/mainsailos/09.png)
+![09](../assets/img/installation/mainsailos/09.png)
  
 - Cliquez ensuite sur **CHOISISSEZ LE STOCKAGE** et sélectionnez votre carte microSD :
  
-[10](../assets/img/installation/mainsailos/10.png)
+![10](../assets/img/installation/mainsailos/10.png)
 
 - Le nom d'hôte, le SSH, le Wi-Fi, la langue et de nombreux autres paramètres peuvent désormais être parcourus et préconfigurés dans un menu de configuration, en cliquant sur la petite roue dentée dans le coin en bas à droite :
 
-[11](../assets/img/installation/mainsailos/11.png)
+![11](../assets/img/installation/mainsailos/11.png)
 
 - Configurez les divers paramètres comme suit :
 
-[12](../assets/img/installation/mainsailos/12.png)
+![12](../assets/img/installation/mainsailos/12.png)
 
 **Veuillez ne pas changer le nom d’utilisateur pi !** La configuration de MainsailOS repose sur cet utilisateur. 
  
@@ -68,23 +68,23 @@ hide:
 
 - Vous pouvez ensuite cliquer sur **ÉCRIRE** :
 
-[13](../assets/img/installation/mainsailos/13.png)
+![13](../assets/img/installation/mainsailos/13.png)
  
 - Puis acceptez l'avertissement :
 
-[14](../assets/img/installation/mainsailos/14.png)
+![14](../assets/img/installation/mainsailos/14.png)
 
 - Cela prendra un certain temps pour écrire l'image sur la carte microSD :
 
-[15](../assets/img/installation/mainsailos/15.png)
+![15](../assets/img/installation/mainsailos/15.png)
  
 - Une fois l’écriture terminée, une vérification sera effectuée :
 
-[16](../assets/img/installation/mainsailos/16.png)
+![16](../assets/img/installation/mainsailos/16.png)
 
 - Une fois la vérification terminée, cliquez sur **CONTINUER** :
 
-[17](../assets/img/installation/mainsailos/17.png)
+![17](../assets/img/installation/mainsailos/17.png)
  
 - L'installation est maintenant terminée.
 
