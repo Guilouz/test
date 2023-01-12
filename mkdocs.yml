@@ -39,7 +39,10 @@ theme:
         - search.share
         - search.suggest
 extra_css:
-    - 'assets/stylesheets/extra.css'
+    - ./assets/stylesheets/extra.css
+    - ./assets/stylesheets/glightbox.min.css
+extra_javascript:
+    - ./assets/javascripts/glightbox.min.js
 plugins:
     - search
     - glightbox:
