@@ -68,7 +68,9 @@ nav:
     - Installation:
         - Pré-Requis: installation/pre-requis.md
         - MainsailOS: installation/mainsailos.md
-        - Connexion SSH: installation/connexion-ssh.md
+        - Connexion SSH: 
+            - Windows: installation/ssh/windows.md
+            - MacOS: installation/ssh/macos.md
         - Dépendances: installation/dependances.md
     - Configurations:
         - Récupération du Serial USB: configurations/recuperation-du-serial-usb.md
@@ -98,7 +100,7 @@ nav:
         - Mesure du Z-Offset: calibrations/zoffset.md
         - Calibration EndStops: calibrations/endstops.md
         - Calibration Delta Automatique: calibrations/delta-automatique.md
-        - Nivellement du Plateau: calibrations/nivellement.md
+        - Nivellement du plateau: calibrations/nivellement.md
         - Compensation de Résonances: calibrations/input-shapper.md
         - Pressure Advance: calibrations/pressure-advance.md
         - Explications des fichiers: calibrations/explications-des-fichiers.md
