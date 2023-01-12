@@ -56,13 +56,13 @@ hide:
 
 - Configurez les divers paramètres comme suit :
 
-![12](../assets/img/installation/mainsailos/12.png)
+  **Veuillez ne pas changer le nom d’utilisateur pi !** La configuration de MainsailOS repose sur cet utilisateur. 
 
-**Veuillez ne pas changer le nom d’utilisateur pi !** La configuration de MainsailOS repose sur cet utilisateur. 
+![12](../assets/img/installation/mainsailos/12.png)
  
-<u>Note</u> : Si vous modifiez le paramètre <i>Set hotname</i>, l'URL de votre Raspberry Pi sera modifiée en conséquence.
+  <u>Note</u> : Si vous modifiez le paramètre <i>Set hotname</i>, l'URL de votre Raspberry Pi sera modifiée en conséquence.
 <br />
-Comme indiqué dans la capture d'écran ci-dessus, votre URL sera : <a href="http://flsun-super-racer.local" target="_blank">http://flsun-super-racer.local</a>
+  Comme indiqué dans la capture d'écran ci-dessus, votre URL sera : <a href="http://flsun-super-racer.local" target="_blank">http://flsun-super-racer.local</a>
                                                                                                                             
 - Cliquez ensuite sur **SAVE** pour sauvegarder ces paramètres.
 
