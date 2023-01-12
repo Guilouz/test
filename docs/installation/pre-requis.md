@@ -22,10 +22,10 @@ Vous trouverez ici la liste de matériel recommandé à la bonne utilisation de 
   <li>Écran BigTreeTech PITFT43/50/70 (DSI) : <a href="https://tinyurl.com/mpe3738n" target="_blank">https://tinyurl.com/mpe3738n</a></li>
   <li>Écran officiel Raspberry Pi Touch Display (DSI) : <a href="https://amzn.to/3GY9l79" target="_blank">https://amzn.to/3GY9l79</a> ou <a href="https://tinyurl.com/24mjpu5k" target="_blank">https://tinyurl.com/24mjpu5k</a></li>
   <li>Écran Waveshare 7inch Capacitive Touch Screen LCD (H) (HDMI) : <a href="https://amzn.to/3Qmhky2" target="_blank">https://amzn.to/3Qmhky2</a> ou <a href="https://tinyurl.com/2p8x2mms" target="_blank">https://tinyurl.com/2p8x2mms</a></li>
-  <li>Une nappe DSI si utilisation d'un écran DSI (longueur en fonction de l'emplacement de votre écran par rapport au Raspberry Pi)</li>
-  <li>Un câble micro HDMI mâle vers HMDI mâle si utilisation d'un écran HDMI avec un Rapsberry Pi 4B (longueur en fonction de l'emplacement de votre écran par rapport au Raspberry Pi)</li>
-  <li>Un câble HDMI mâle vers HMDI mâle si utilisation d'un écran HDMI avec un Rapsberry Pi 3B/3B+ (longueur en fonction de l'emplacement de votre écran par rapport au Raspberry Pi)</li>
-  <li>Un câble mini HDMI mâle vers HMDI mâle si utilisation d'un écran HDMI avec un Rapsberry Pi Zero 2W (longueur en fonction de l'emplacement de votre écran par rapport au Raspberry Pi)</li>
+  <li>Une nappe DSI si utilisation d'un écran DSI</li>
+  <li>Un câble micro HDMI mâle vers HDMI mâle si utilisation d'un écran HDMI avec un Rapsberry Pi 4B</li>
+  <li>Un câble HDMI mâle vers HDMI mâle si utilisation d'un écran HDMI avec un Rapsberry Pi 3B/3B+</li>
+  <li>Un câble mini HDMI mâle vers HDMI mâle si utilisation d'un écran HDMI avec un Rapsberry Pi Zero 2W</li>
   <li>ADXL USB FYSETC Portable Input Shaper : <a href="https://tinyurl.com/5n7uukna" target="_blank">https://tinyurl.com/5n7uukna</a></li>
 </ul>
 
