@@ -111,6 +111,7 @@ nav:
         - ADXL: configurations/adxl.md
         - NeoPixels: configurations/neopixels.md
         - Thème Mainsail: configurations/theme-mainsail.md
+        - Fixer l'adresse IP du Raspberry Pi: configurations/fixer-adresse-ip.md
     - Calibrations de l'imprimante: 
         - Calibration Extrudeur: calibrations/extrudeur.md
         - Calibration PID: calibrations/pid.md
