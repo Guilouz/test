@@ -55,7 +55,7 @@ plugins:
         zoomable: false
         draggable: true
         skip_classes:
-            - custom-skip-class-name
+            - zoom-off
         auto_caption: false
         caption_position: bottom
 copyright: Guislain Cyril &copy; Tous droits réservés
