@@ -62,7 +62,7 @@ hide:
  
 <u>Note</u> : Si vous modifiez le paramètre <i>Set hotname</i>, l'URL de votre Raspberry Pi sera modifiée en conséquence.
 <br />
-Comme indiqué dans la capture d'écran ci-dessus, votre URL sera : http://flsun-super-racer.local
+Comme indiqué dans la capture d'écran ci-dessus, votre URL sera : <a href="http://flsun-super-racer.local" target="_blank">http://flsun-super-racer.local</a>
                                                                                                                             
 - Cliquez ensuite sur **SAVE** pour sauvegarder ces paramètres.
 
