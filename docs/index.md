@@ -29,6 +29,6 @@ Si vous aimez mon travail, n'hésitez pas à me soutenir en me payant une 🍺 o
 
 <br />
 
-Vous pouvez commencer pour consulter la section :material-arrow-right-box: [Liens Utiles](liens-utiles.md).
+Vous pouvez commencer par consulter la section :material-arrow-right-box: [Liens Utiles](liens-utiles.md).
 
 
