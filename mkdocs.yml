@@ -63,7 +63,7 @@ markdown_extensions:
 
 nav:
     - Informations: index.md
-    - Liens Utiles: liens-utiles.md
+    - Liens utiles: liens-utiles.md
     - Changelog: changelog.md
     - Support: support.md
     - Installation:
@@ -102,6 +102,6 @@ nav:
         - Calibration EndStops: calibrations/endstops.md
         - Calibration Delta Automatique: calibrations/delta-automatique.md
         - Nivellement du plateau: calibrations/nivellement.md
-        - Compensation de Résonances: calibrations/input-shapper.md
+        - Input Shaping: calibrations/input-shaping.md
         - Pressure Advance: calibrations/pressure-advance.md
         - Explications des fichiers: calibrations/explications-des-fichiers.md
