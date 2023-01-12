@@ -65,6 +65,7 @@ nav:
     - Liens Utiles: liens-utiles.md
     - Changelog: changelog.md
     - Support: support.md
+    -
     - Installation:
         - Pré-Requis: installation/pre-requis.md
         - MainsailOS: installation/mainsailos.md
@@ -72,6 +73,7 @@ nav:
             - Windows: installation/ssh/windows.md
             - MacOS: installation/ssh/macos.md
         - Dépendances: installation/dependances.md
+    -
     - Firmwares Klipper:
         - MKS Robin Nano v3.x:
             - Compilation: firmwares/compilation-mks-robin-nano.md
@@ -82,9 +84,10 @@ nav:
         - BigTreeTech SKR 2.0:
             - Compilation: firmwares/compilation-btt-skr2.0.md
             - Installation: firmwares/installation-btt-skr2.0.md
+    -
     - Configurations:
         - Récupération du Serial USB: configurations/recuperation-du-serial-usb.md
-        - Fichiers de Configuration: configurations/fichiers-de-configuration.md
+        - Installation des fichiers: configurations/fichiers-de-configuration.md
         - Changements coté Slicers:
             - GCode de Début / Fin: configurations/gcode-de-debut-fin.md
             - Rétraction Firmware: configurations/retraction-firmware.md
@@ -94,6 +97,7 @@ nav:
         - ADXL: configurations/adxl.md
         - NeoPixels: configurations/neopixels.md
         - Thème Mainsail: configurations/theme-mainsail.md
+    -
     - Calibrations de l'imprimante: 
         - Calibration Extrudeur: calibrations/extrudeur.md
         - Calibration PID: calibrations/pid.md

@@ -3,5 +3,5 @@ hide:
   - toc
 ---
 
-# Fichiers de configuration
+# Installation des fichiers de configuration
 
