@@ -42,6 +42,19 @@ extra_css:
     - 'assets/stylesheets/extra.css'
 plugins:
     - search
+    - glightbox:
+        touchNavigation: true
+        loop: false
+        effect: zoom
+        slide_effect: slide
+        width: 100%
+        height: auto
+        zoomable: false
+        draggable: true
+        skip_classes:
+            - custom-skip-class-name
+        auto_caption: false
+        caption_position: bottom
 copyright: Guislain Cyril &copy; Tous droits réservés
 extra:
   generator: false
@@ -58,6 +71,7 @@ markdown_extensions:
     - attr_list
     - md_in_html
     - pymdownx.keys
+    - meta
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
