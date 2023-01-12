@@ -14,9 +14,7 @@ hide:
 
 - Insérez votre carte microSD dans votre ordinateur.
 
-- Sélectionnez **CHOISISSEZ L'OS** et une fenêtre contextuelle s'ouvrira comme illustré ci-dessous :
-
-- Faites défiler jusqu'à **Formatter** :
+- Sélectionnez **CHOISISSEZ L'OS**, une fenêtre contextuelle s'ouvre et faites défiler jusqu'à **Formatter** :
 
 ![02](../assets/img/installation/mainsailos/02.png){ width="600" }
 
