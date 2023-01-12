@@ -55,6 +55,7 @@ extra:
       link: https://twitter.com/Guilouz
 markdown_extensions:
     - attr_list
+    - pymdownx.keys
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
