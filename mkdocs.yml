@@ -73,7 +73,7 @@ nav:
             - Windows: installation/ssh/windows.md
             - MacOS: installation/ssh/macos.md
         - Dépendances: installation/dependances.md
-    -
+    - -------------------------
     - Firmwares Klipper:
         - MKS Robin Nano v3.x:
             - Compilation: firmwares/compilation-mks-robin-nano.md
