@@ -10,12 +10,10 @@ Vous trouverez ici la liste de matériel recommandé à la bonne utilisation de 
 
 ### Matériels nécessaires :
 
-<ul>
-  <li>Raspberry Pi 3B/3B+ ou au mieux Raspberry Pi 4B mais le Raspberry Pi Zero 2W fonctionne aussi</li>
-  <li>Une carte microSD d'une capacité de 16Go minimum avec une vitesse de lecture/écriture assez élevée</li>
-  <li>Une alimentation Raspberry Pi si branchement en externe</li>
-  <li>Une alimentation Meanwell RS-25-5 si branchement en interne : :simple-amazon: <a href="https://amzn.to/3XdFRr5" target="_blank">https://amzn.to/3XdFRr5</a> ou :material-web: <a href="https://tinyurl.com/bdehnpmt" target="_blank">https://tinyurl.com/bdehnpmt</a></li>
-</ul>
+- Raspberry Pi 3B/3B+ ou au mieux Raspberry Pi 4B mais le Raspberry Pi Zero 2W fonctionne aussi
+- Une carte microSD d'une capacité de 16Go minimum avec une vitesse de lecture/écriture assez élevée
+- Une alimentation Raspberry Pi si branchement en externe<
+- Une alimentation Meanwell RS-25-5 si branchement en interne : :simple-amazon: <a href="https://amzn.to/3XdFRr5" target="_blank">https://amzn.to/3XdFRr5</a> ou :material-web: <a href="https://tinyurl.com/bdehnpmt" target="_blank">https://tinyurl.com/bdehnpmt</a>
 
 ### Matériels facultatifs mais fortement recommandés :
 <ul>
