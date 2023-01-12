@@ -10,7 +10,7 @@ hide:
 
 - Lors de l'ouverture de Raspberry Pi Imager, les éléments suivants s'affichent :
 
-![01](../assets/img/installation/mainsailos/01.png)
+![01](../assets/img/installation/mainsailos/01.png){ width="500" }
 
 - Insérez votre carte microSD dans votre ordinateur.
 
@@ -18,11 +18,11 @@ hide:
 
 - Faites défiler jusqu'à **Formatter** :
 
-![02](../assets/img/installation/mainsailos/02.png)
+![02](../assets/img/installation/mainsailos/02.png){ width="400" }
 
 - Cliquez sur **CHOISISSEZ LE STOCKAGE** et sélectionnez votre carte microSD :
 
-![03](../assets/img/installation/mainsailos/03.png)
+![03](../assets/img/installation/mainsailos/03.png){ width="600" }
 
 - Cliquez ensuite sur **ECRIRE** et confirmez le formatage de la carte microSD :
 
