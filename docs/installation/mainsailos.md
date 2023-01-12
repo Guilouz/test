@@ -60,7 +60,9 @@ hide:
 
 **Veuillez ne pas changer le nom d’utilisateur pi !** La configuration de MainsailOS repose sur cet utilisateur. 
  
-<u>Note</u> : Si vous modifiez le paramètre <i>Set hotname</i>, l'URL de votre Raspberry Pi sera modifiée en conséquence. Comme indiqué dans la capture d'écran ci-dessus, votre URL sera : http://flsun-super-racer.local
+<u>Note</u> : Si vous modifiez le paramètre <i>Set hotname</i>, l'URL de votre Raspberry Pi sera modifiée en conséquence.
+<br />
+Comme indiqué dans la capture d'écran ci-dessus, votre URL sera : http://flsun-super-racer.local
                                                                                                                             
 - Cliquez ensuite sur **SAVE** pour sauvegarder ces paramètres.
 
