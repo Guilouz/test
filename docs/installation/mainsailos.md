@@ -92,5 +92,5 @@ hide:
 
 <br />
 
-Vous pouvez ensuite continuer vers la section :material-arrow-right-box: [Connexion SSH sous Windows](ssh/windows.md) ou [Connexion SSH sous macOS](ssh/macos.md).
+Vous pouvez ensuite continuer vers la section :material-arrow-right-box: [Connexion SSH sous Windows](ssh/windows.md) ou :material-arrow-right-box: [Connexion SSH sous macOS](ssh/macos.md).
 
