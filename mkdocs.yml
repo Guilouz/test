@@ -46,14 +46,14 @@ extra_javascript:
 plugins:
     - search
     - glightbox:
-        touchNavigation: true
+        touchNavigation: false
         loop: false
         effect: zoom
         slide_effect: slide
         width: 100%
         height: auto
         zoomable: true
-        draggable: false
+        draggable: true
         skip_classes:
             - zoom-off
         auto_caption: false
