@@ -17,7 +17,7 @@ make menuconfig
 
   Déplacez-vous sur le menu avec les touches ++"Haut"++ et ++"Bas"++ de votre clavier et validez l’élément sélectionné avec la touche ++"Entrée"++.
 
-![01](../assets/img/firmwares/nanov3x.png){ width="600" }
+![01](../assets/img/firmwares/nanov3x.png){ width="800" }
 
 - Puis sur votre clavier appuyez sur la touche ++"Q"++ puis sur ++"Y"++ pour sauvegarder la configuration.
 
