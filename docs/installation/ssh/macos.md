@@ -11,7 +11,7 @@ hide:
 
 ![01](../../assets/img/installation/ssh/macos/01.png){ width="600" }
 
-- Sélectionnez la bonne interface réseau utilisée par votre MAC sans la partie **Select interface** puis cliquez sur **Scan** :
+- Sélectionnez la bonne interface réseau utilisée par votre MAC dans la partie **Select interface** puis cliquez sur **Scan** :
 
 ![02](../../assets/img/installation/ssh/macos/02.png){ width="600" }
 
@@ -22,8 +22,9 @@ hide:
 - Lancez ensuite l'application **Terminal** et saisissez la commande suivante :
 
 ```
-ssh pi@adresse_ip_du_raspberry` (1)
+ssh pi@adresse_ip_du_raspberry (1)
 ```
+
 1.  :warning: Remplacez le champ 'adresse_ip_du_raspberry' par l'adresse IP obtenue précédemment.
 
 ![04](../../assets/img/installation/ssh/macos/04.png){ width="600" }
