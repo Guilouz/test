@@ -21,8 +21,8 @@ hide:
 
 - Lancez ensuite l'application **Terminal** et saisissez la commande suivante :
 
-``` yaml
-ssh pi@`#!python adresse_ip_du_raspberry` # (1)
+```
+ssh pi@adresse_ip_du_raspberry` (1)
 ```
 1.  :warning: Remplacez le champ 'adresse_ip_du_raspberry' par l'adresse IP obtenue précédemment.
 
@@ -36,14 +36,6 @@ ssh pi@`#!python adresse_ip_du_raspberry` # (1)
 
 ![06](../../assets/img/installation/ssh/macos/06.png){ width="600" }
 
-``` yaml
-theme:
-  features:
-    - content.code.annotate # (1)
-```
-
-1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
-    text__, images, ... basically anything that can be written in Markdown.
 
 
 <br />
