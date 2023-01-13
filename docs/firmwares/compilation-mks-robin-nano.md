@@ -15,4 +15,4 @@ make menuconfig
 
 - Sélectionnez ces paramètres :
 
-  Déplacez-vous sur le menu avec les touches ++arrow-up-Haut++ et ++arrow-down-"Bas"++ de votre clavier et validez l’élément sélectionné avec la touche ++enter++.
+  Déplacez-vous sur le menu avec les touches ++arrow-up<Haut>++ et ++arrow-down-"Bas"++ de votre clavier et validez l’élément sélectionné avec la touche ++enter++.
