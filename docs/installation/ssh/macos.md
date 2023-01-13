@@ -30,9 +30,14 @@ ssh pi@adresse_ip_du_raspberry # (1)!
 
 1.  :warning: Remplacez le champ 'adresse_ip_du_raspberry' par l'adresse IP obtenue précédemment.
 
-!!! :warning: Attention !
+!!! note annotate "Phasellus posuere in sem ut cursus (1)"
 
-    Remplacez le champ 'adresse_ip_du_raspberry' par l'adresse IP obtenue précédemment.
+    Lorem ipsum dolor sit amet, (2) consectetur adipiscing elit. Nulla et
+    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+    purus auctor massa, nec semper lorem quam in massa.
+
+1.  :man_raising_hand: I'm an annotation!
+2.  :woman_raising_hand: I'm an annotation as well!
 
 ![04](../../assets/img/installation/ssh/macos/04.png){ width="600" }
 
