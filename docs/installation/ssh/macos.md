@@ -37,7 +37,9 @@ ssh pi@adresse_ip_du_raspberry # (1)!
 
 ![06](../../assets/img/installation/ssh/macos/06.png){ width="600" }
 
-- Afin d’accéder aux dossiers et fichers de votre Raspberry Pi, téléchargez : :simple-apple: <a href="https://apps.apple.com/fr/app/cyberduck/id409222199?mt=12" target="_blank">Cyberduck</a>
+<br />
+
+- Afin d’accéder aux dossiers et fichers de votre Raspberry Pi, vous pouvez téléchargez : :simple-apple: <a href="https://apps.apple.com/fr/app/cyberduck/id409222199?mt=12" target="_blank">Cyberduck</a>
 
 - Lancez l'application puis cliquez sur **Ouvrir une connexion** :
 
