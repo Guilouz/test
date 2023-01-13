@@ -6,7 +6,7 @@ hide:
 # Installation de MainsailOS
 
 
-- Téléchargez et installez la dernière version de **Raspberry Pi Imager** ici : <a href="https://www.raspberrypi.com/software/" target="_blank">https://www.raspberrypi.com/software/</a>
+- Téléchargez et installez le logiciel : :simple-raspberrypi: <a href="https://www.raspberrypi.com/software/" target="_blank">Raspberry Pi Imager</a>
 
 - Lors de l'ouverture de Raspberry Pi Imager, les éléments suivants s'affichent :
 

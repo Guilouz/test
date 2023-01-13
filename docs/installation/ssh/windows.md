@@ -5,7 +5,7 @@ hide:
 
 # Connexion SSH sous Windows
 
-- Afin d’obtenir l’adresse IP de votre Raspberry Pi sur votre réseau, téléchargez **Advanced IP Scanner** ici : <a href="https://www.advanced-ip-scanner.com/fr/" target="_blank">https://www.advanced-ip-scanner.com/fr/</a>
+- Afin d’obtenir l’adresse IP de votre Raspberry Pi sur votre réseau, téléchargez : :material-web: <a href="https://www.advanced-ip-scanner.com/fr/" target="_blank">Advanced IP Scanner</a>
 
 - Exécutez le fichier et sélectionnez **Exécuter** - Lancer la version portable :
 
@@ -19,7 +19,7 @@ hide:
 
 ![03](../../assets/img/installation/ssh/windows/03.png){ width="600" }
 
-- Téléchargez et installez ensuite le logiciel **MobaXterm** ici : <a href="https://mobaxterm.mobatek.net/download-home-edition.html" target="_blank">https://mobaxterm.mobatek.net/download-home-edition.html</a>
+- Téléchargez et installez ensuite le logiciel : :material-web: <a href="https://mobaxterm.mobatek.net/download-home-edition.html" target="_blank">MobaXterm</a>
 
 - Lancez-le puis cliquez sur l'icône **Session** :
 
