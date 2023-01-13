@@ -21,14 +21,14 @@ hide:
 
 - Lancez ensuite l'application **Terminal** et saisissez la commande suivante :
 
-```
+``` yaml
 ssh pi@adresse_ip_du_raspberry # (1)!
 ```
 
 1.  :warning: Remplacez le champ 'adresse_ip_du_raspberry' par l'adresse IP obtenue précédemment.
 
 ``` yaml
-content.code.annotate # (1)
+content.code.annotate # (1)!
 ```
 
 1.  :warning: Remplacez le champ 'adresse_ip_du_raspberry' par l'adresse IP obtenue précédemment.
