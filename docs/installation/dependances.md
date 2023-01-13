@@ -5,6 +5,9 @@ hide:
 
 # Installation des dépendances
 
+Cette étape permet d'installer les dernière mises à jour disponibles, de supprimer les dépendances et fichiers inutiles afin d'avoir un système d'expoitation "propre" et sain.
+
+
 - Dans la fenêtre d'invite de commande SSH, entrez la commande suivante pour télécharger la liste des mises à jour (vous devrez entrer le mot de passe du Raspberry Pi) :
 
 ``` yaml
