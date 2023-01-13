@@ -20,11 +20,10 @@ Vous trouverez ici la liste de matériel recommandé à la bonne utilisation de 
 ### Matériels facultatifs mais fortement recommandés :
 
 #### Écrans DSI :
-<ul>
-  <li>Écran BigTreeTech PITFT43/50/70 (DSI) : <a href="https://tinyurl.com/mpe3738n" target="_blank">https://tinyurl.com/mpe3738n</a></li>
-  <li>Écran officiel Raspberry Pi Touch Display (DSI) : <a href="https://amzn.to/3XseAlc" target="_blank">https://amzn.to/3XseAlc</a> ou <a href="https://tinyurl.com/24mjpu5k" target="_blank">https://tinyurl.com/24mjpu5k</a></li>
-  <li>Une nappe DSI : <a href="https://amzn.to/3XiaTOY" target="_blank">https://amzn.to/3XiaTOY</a></li>
-</ul>
+
+- Écran BigTreeTech PITFT43/50/70 (DSI) : :material-web: <a href="https://biqu.equipment/collections/lcd/products/bigtreetech-pi-tft43-v2-0-screen-board?variant=39337700786274" target="_blank">Biqu</a>
+- Écran officiel Raspberry Pi Touch Display (DSI) : :simple-amazon: <a href="https://www.amazon.fr/Raspberry-PI-LCD-inch-Ecran/dp/B076K9NCKH/" target="_blank">Amazon</a> ou :material-web: <a href="https://www.kubii.fr/ecrans-afficheurs/1131-ecran-tactile-officiel-7-800x480-kubii-5056070923850.html" target="_blank">Kubii</a>
+- Une nappe DSI : :simple-amazon: <a href="https://www.amazon.fr/GeeekPi-Raspberry-Camera-c%C3%A2ble-15-broches/dp/B07DKB4M1H" target="_blank">Amazon</a>
 
 #### Écrans HDMI :
 <ul>
@@ -36,7 +35,7 @@ Vous trouverez ici la liste de matériel recommandé à la bonne utilisation de 
 
 #### ADXL :
 <ul>
-  <li>ADXL USB FYSETC Portable Input Shaper : <a href="https://tinyurl.com/5n7uukna" target="_blank">https://tinyurl.com/5n7uukna</a></li>
+  <li>ADXL USB FYSETC Portable Input Shaper : <a href="https://tinyurl.com/y8hh574b" target="_blank">https://tinyurl.com/y8hh574b</a></li>
   <li>Un câble USB-C vers USB pour l'utilisation de l'ADXL USB (vérifiez bien le type de câble nécessaire en fonction du Raspberry Pi utilisé)</li>
 </ul>
 
