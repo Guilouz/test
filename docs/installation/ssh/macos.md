@@ -29,10 +29,15 @@ ssh pi@adresse_ip_du_raspberry # (1)!
 ```
 
 1.  :warning: Remplacez le champ 'adresse_ip_du_raspberry' par l'adresse IP obtenue précédemment.
-
-| :warning: Attention!                                                                |
-| ----------- | --------------------------------------------------------------------- |
-| Remplacez le champ 'adresse_ip_du_raspberry' par l'adresse IP obtenue précédemment. |
+2.  
+<table style="width: 100%;">
+  <tr>
+    <td>:warning: <b>Attention !</b></td>
+  </tr>  
+  <tr>
+    <td>Remplacez le champ 'adresse_ip_du_raspberry' par l'adresse IP obtenue précédemment.</td>
+  </tr>
+</table>
 
 ![04](../../assets/img/installation/ssh/macos/04.png){ width="600" }
 
