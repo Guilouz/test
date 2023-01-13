@@ -63,4 +63,4 @@ ssh pi@adresse_ip_du_raspberry # (1)!
 
 <br />
 
-Vous pouvez ensuite continuer vers la section :material-arrow-right-box: [Installation des dépendances](../dependances.md) 
+Vous pouvez ensuite continuer vers la section :material-arrow-right-box: [Installation des dépendances](../dependances.md).
