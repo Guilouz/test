@@ -9,15 +9,15 @@ En collaboration avec la chaîne :simple-youtube: <a href="https://www.youtube.c
 
 Le pack comprend :
 
-- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 1.3</u> en version Stock
-- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 1.3</u> + <u>Bondtech LGX Lite</u>
-- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 1.3</u> + <u>Bondtech LGX Lite</u> + <u>TriangleLab CHC Pro</u>
-- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 2.0</u> en version Stock
-- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 2.0</u> + <u>Bondtech LGX Lite</u>
-- Les fichiers de configuration pour les cartes mères <u>BigTreeTech SKR 2.0</u> + <u>Bondtech LGX Lite</u> + <u>TriangleLab CHC Pro</u>
-- Les fichiers de configuration pour les cartes mères <u>MKS Robin Nano V3.0/V3.1</u> en version Stock
-- Les fichiers de configuration pour les cartes mères <u>MKS Robin Nano V3.0/V3.1</u> + <u>Bondtech LGX Lite</u>
-- Les fichiers de configuration pour les cartes mères <u>MKS Robin Nano V3.0/V3.1</u> + <u>Bondtech LGX Lite</u> + <u>TriangleLab CHC Pro</u>
+- Les fichiers de configuration pour les cartes mères **BigTreeTech SKR 1.3** en version **Stock**
+- Les fichiers de configuration pour les cartes mères **BigTreeTech SKR 1.3** + **Bondtech LGX Lite**
+- Les fichiers de configuration pour les cartes mères **BigTreeTech SKR 1.3** + **Bondtech LGX Lite** + **TriangleLab CHC Pro**
+- Les fichiers de configuration pour les cartes mères **BigTreeTech SKR 2.0** en version **Stock**
+- Les fichiers de configuration pour les cartes mères **BigTreeTech SKR 2.0** + **Bondtech LGX Lite**
+- Les fichiers de configuration pour les cartes mères **BigTreeTech SKR 2.0** + **Bondtech LGX Lite** + **TriangleLab CHC Pro**
+- Les fichiers de configuration pour les cartes mères **MKS Robin Nano V3.0/V3.1** en version **Stock**
+- Les fichiers de configuration pour les cartes mères **MKS Robin Nano V3.0/V3.1** + **Bondtech LGX Lite**
+- Les fichiers de configuration pour les cartes mères **MKS Robin Nano V3.0/V3.1** + **Bondtech LGX Lite** + **TriangleLab CHC Pro**
 - Certains STL nécessaires
 
 
