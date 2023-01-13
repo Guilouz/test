@@ -5,6 +5,9 @@ hide:
 
 # Connexion SSH sous Windows
 
+La connexion via SSH permet de pouvoir envoyer des commandes de tous types au Raspberry Pi.
+
+
 - Afin d’obtenir l’adresse IP de votre Raspberry Pi sur votre réseau, téléchargez : :material-web: <a href="https://www.advanced-ip-scanner.com/fr/" target="_blank">Advanced IP Scanner</a>
 
 - Exécutez le fichier et sélectionnez **Exécuter** - Lancer la version portable :
