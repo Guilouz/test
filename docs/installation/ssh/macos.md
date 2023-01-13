@@ -22,7 +22,7 @@ hide:
 - Lancez ensuite l'application **Terminal** et saisissez la commande suivante :
 
 ```
-ssh pi@adresse_ip_du_raspberry (1)
+ssh pi@adresse_ip_du_raspberry # (1)!
 ```
 
 1.  :warning: Remplacez le champ 'adresse_ip_du_raspberry' par l'adresse IP obtenue précédemment.
