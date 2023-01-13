@@ -48,4 +48,4 @@ La connexion via SSH permet de pouvoir envoyer des commandes de tous types au Ra
  
 <br />
 
-Vous pouvez ensuite continuer vers la section :material-arrow-right-box: [Installation des dépendances](../dependances.md) 
+Vous pouvez ensuite continuer vers la section :material-arrow-right-box: [Installation des dépendances](../dependances.md).
