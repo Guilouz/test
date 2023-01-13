@@ -5,6 +5,9 @@ hide:
 
 # Connexion SSH sous MacOS
 
+La connexion via SSH permet de pouvoir envoyer des commandes de tous types au Raspberry Pi.
+
+
 - Afin d’obtenir l’adresse IP de votre Raspberry Pi sur votre réseau, téléchargez : :simple-apple: <a href="https://apps.apple.com/fr/app/lanscan/id472226235?mt=12" target="_blank">LanScan</a>
 
 - Lancez l'application et cliquez sur **Config** :
