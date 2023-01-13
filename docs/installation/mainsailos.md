@@ -5,6 +5,9 @@ hide:
 
 # Installation de MainsailOS
 
+MainsailOS est le sytème d'exploitation du Raspberry Pi. Il s'appuie sur Raspberry Pi OS Lite en incluant Klipper, Moonraker et Mainsail dans le fichier image à installer, ce qui rend la configuration rapide et plus facile à utiliser.
+
+<br />
 
 - Téléchargez et installez le logiciel : :simple-raspberrypi: <a href="https://www.raspberrypi.com/software/" target="_blank">Raspberry Pi Imager</a>
 
