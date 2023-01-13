@@ -52,4 +52,10 @@ sudo reboot
 
 <br />
 
-Vous pouvez ensuite continuer vers la section de compilation du firmware Klipper en fonction de votre carte mère :material-arrow-right-box: [MKS Robin Nano v3.x](../firmwares/compilation-mks-robin-nano.md) ou [BigTreeTech SKR 1.3](../firmwares/compilation-btt-skr1.3.md) ou [BigTreeTech SKR 2.0](../firmwares/compilation-btt-skr2.0.md)
+Vous pouvez ensuite continuer vers la section de compilation du firmware Klipper en fonction de votre carte mère :
+
+:material-arrow-right-box: [MKS Robin Nano v3.x](../firmwares/compilation-mks-robin-nano.md)
+
+:material-arrow-right-box: [BigTreeTech SKR 1.3](../firmwares/compilation-btt-skr1.3.md)
+
+:material-arrow-right-box: [BigTreeTech SKR 2.0](../firmwares/compilation-btt-skr2.0.md)
