@@ -24,11 +24,15 @@ La connexion via SSH permet de pouvoir envoyer des commandes de tous types au Ra
 
 - Lancez ensuite l'application **Terminal** et saisissez la commande suivante :
 
-  :warning: Remplacez le champ {==adresse_ip_du_raspberry==} par l'adresse IP obtenue précédemment.
-
 ``` yaml
 ssh pi@adresse_ip_du_raspberry
 ```
+
+{==
+
+:warning: Remplacez le champ {==adresse_ip_du_raspberry==} par l'adresse IP obtenue précédemment.
+
+==}
 
 ![04](../../assets/img/installation/ssh/macos/04.png){ width="600" }
 
