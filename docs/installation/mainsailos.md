@@ -59,6 +59,7 @@ MainsailOS est le sytème d'exploitation du Raspberry Pi. Il s'appuie sur Raspbe
 - Configurez les divers paramètres comme suit :
 
 {==
+
 :warning: **Veuillez ne pas changer le nom d’utilisateur pi !** La configuration de MainsailOS repose sur cet utilisateur.
 
 ==}
