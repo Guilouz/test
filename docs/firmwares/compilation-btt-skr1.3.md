@@ -14,9 +14,7 @@ cd ~/klipper/
 make menuconfig
 ```
 
-- Sélectionnez ces paramètres :
-
-  Déplacez-vous sur le menu avec les touches ++"Haut"++ et ++"Bas"++ de votre clavier et validez l’élément sélectionné avec la touche ++"Entrée"++.
+- Déplacez-vous sur le menu avec les touches ++"Haut"++ et ++"Bas"++ de votre clavier et validez l’élément sélectionné avec la touche ++"Entrée"++ et sélectionnez ces paramètres :
 
 ![01](../assets/img/firmwares/skr1.3.png){ width="800" }
 
