@@ -30,7 +30,7 @@ ssh pi@adresse_ip_du_raspberry
 
 {==
 
-:warning: Remplacez le champ {==adresse_ip_du_raspberry==} par l'adresse IP obtenue précédemment.
+:warning: Remplacez le champ **adresse_ip_du_raspberry** par l'adresse IP obtenue précédemment.
 
 ==}
 
