@@ -5,7 +5,7 @@ hide:
 
 # Installation du firmware sur BigTreeTech SKR 1.3
 
-Récupérez le firmware nommé **klipper.bin** dans le répertoire suivant :
+- Récupérez le firmware nommé **klipper.bin** dans le répertoire suivant :
 
 ``` yaml
 /home/pi/klipper/out/
