@@ -102,6 +102,7 @@ path: ~/mainsail-config
 origin: https://github.com/mainsail-crew/mainsail-config.git
 managed_services: klipper
 ```
+
 - Cliquez sur **SAUVEGARDER ET REDÉMARRAGE** en haut à droite pour enregistrer le fichier.
 
 - Redémarrez ensuite votre Raspberry Pi.
