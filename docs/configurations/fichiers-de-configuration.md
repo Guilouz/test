@@ -109,4 +109,4 @@ managed_services: klipper
 
 <br />
 
-Vous pouvez ensuite continuer vers la section :material-arrow-right-box: [Changement du GCode de Début / Fin](../configurations/gcode-de-debut-fin.md).
+Vous pouvez ensuite continuer vers la section :material-arrow-right-box: [Changement du GCode de Début/Fin coté Slicers](../configurations/gcode-de-debut-fin.md).
