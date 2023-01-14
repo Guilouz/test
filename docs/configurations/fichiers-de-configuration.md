@@ -26,13 +26,13 @@ Cette étape permet de mettre en place les fichiers de configuration de votre im
 
 ==}
 
-- Rendez-vous dans l'onglet **Machine** sur la gauche puis importez les fichiers suivants situés dans le dossier **Configurations** du Pack :
+- Rendez-vous dans l'onglet **Machine** sur le menu latéral gauche puis importez les fichiers suivants situés dans le dossier **Configurations** du Pack :
 
-  *	KlipperScreen.conf
-  * printer.cfg
-  * neopixels.cfg
-  * macros.cfg
-  * adxl345.cfg
+    * <p style="color:#09991c">KlipperScreen.conf</p>
+    * <p style="color:#09991c">printer.cfg</p>
+    * <p style="color:#09991c">neopixels.cfg</p>
+    * <p style="color:#09991c">macros.cfg</p>
+    * <p style="color:#09991c">adxl345.cfg</p>
   
 {==
 
