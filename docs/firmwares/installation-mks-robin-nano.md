@@ -5,7 +5,7 @@ hide:
 
 # Installation du firmware sur MKS Robin Nano V3.0/V3.1
 
-Récupérez le firmware nommé **klipper.bin** dans le répertoire suivant :
+- Récupérez le firmware nommé **klipper.bin** dans le répertoire suivant :
 
 ``` yaml
 /home/pi/klipper/out/
