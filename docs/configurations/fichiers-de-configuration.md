@@ -88,7 +88,7 @@ enable_object_processing: True
 
 - Cela permet d’activer la fonction **Exclude Objects** qui permet d’exclure des objets individuels d’une impression en cours via ce bouton :
 
-|  |  |  |
+|  | Fonction Exclude Objects |  |
 | :---------: | :---------: | :---------: |
 |![SMT32F407](../assets/img/configurations/exclude-objects-status-panel.png){ width="400" } | <br /><br /><br /><br />:material-arrow-right-bold:<br />Le bouton ouvre une boîte de dialogue dans laquelle vous pouvez sélectionner chaque objet individuel et l'exclure de l'impression en cours<br />:material-arrow-right-bold: | ![SMT32F429](../assets/img/configurations/exclude-objects.png){ width="400" } |
 
