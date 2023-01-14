@@ -37,7 +37,11 @@ Vous trouverez ici la liste de matériel recommandé à la bonne utilisation de 
 
 <br />
 
-<u>Note</u> : D'autres écrans peuvent fonctionner sans problème cependant assurez-vous qu'ils ne nécessitent pas d'autres configurations spécifiques.
+{==
+
+:octicons-info-16: D'autres écrans peuvent fonctionner sans problème cependant assurez-vous qu'ils ne nécessitent pas d'autres configurations spécifiques.
+
+==}
 
 <br />
 
