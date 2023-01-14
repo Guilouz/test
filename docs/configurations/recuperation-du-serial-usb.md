@@ -5,7 +5,7 @@ hide:
 
 # Récupération du Serial USB
 
-Cette étape permet de récupérer de serial USB de la carte mère de votre imprimante afin que Klipper puisque communiquer avec elle.
+Cette étape permet de récupérer le serial USB de la carte mère afin que Klipper puisque communiquer avec votre imprimante.
 
 
 - Assurez-vous que votre imprimante est connectée sur l’un des ports USB du Raspberry Pi.
