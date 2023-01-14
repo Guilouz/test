@@ -10,7 +10,7 @@ hide:
 <table>
 <tr>
 <td>
-<img src="../assets/img/firmwares/smt32f407.png" width="400" /><br/>
+<img src="https://github.com/Guilouz/test/raw/main/docs/assets/img/firmwares/smt32f407.png" width="400" />
 </td>
 <td>
 SMT32F407
@@ -18,7 +18,7 @@ SMT32F407
 </tr>
 <tr>
 <td>
-<img src="../assets/img/firmwares/smt32f429.png" width="400" /><br/>
+<img src="https://github.com/Guilouz/test/raw/main/docs/assets/img/firmwares/smt32f429.png" width="400" />
 </td>
 <td>
 SMT32F429
