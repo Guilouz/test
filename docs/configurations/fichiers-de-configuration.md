@@ -8,7 +8,7 @@ hide:
 Cette étape permet de mettre en place les fichiers de configuration de votre imprimante et les différentes macros.
 
 
-- Téléchargez la dernière version du Pack
+- Téléchargez la dernière version du Pack en haut à droite du site.
 
 - Rendez-vous sur l'interface Web de Mainsail via votre navigateur Web en saisissant l'adresse IP de votre Raspberry Pi.
 
@@ -41,6 +41,56 @@ Cette étape permet de mettre en place les fichiers de configuration de votre im
 ==}
 
 ![Importer](../assets/img/configurations/importer.png){ width="600" }
+
+- Une fois importés, ouvrez le fichier **printer.cfg** et modifiez la ligne suivante dans la section **Paramètres MCU** :
+
+``` yaml
+########################################
+# Paramètres MCU
+########################################
+
+[mcu]
+serial: XXXXXX
+```
+
+En remplaçant les *XXXXX* par le serial obtenu dans la section :material-arrow-right-box: [Récupération du Serial USB](../configurations/recuperation-du-serial-usb.md).
+
+``` yaml
+########################################
+# Paramètres MCU
+########################################
+
+[mcu]
+serial: /dev/serial/by-id/usb-Klipper_stm32g0b1xx_2F0034001050415833323520-if00
+```
+
+- Cliquez sur **SAUVEGARDER ET REDÉMARRAGE** en haut à droite pour enregistrer le fichier.
+
+- Après le redémarrage du firmware, vous devriez voir le MCU de l'imprimante présent :
+
+![MCU](../assets/img/configurations/mcu.png){ width="600" }
+
+- Ouvrez ensuite le fichier **moonraker.conf** et modifiez la ligne suivante :
+
+``` yaml
+[file_manager]
+# post processing for object cancel. Not recommended for low resource SBCs such as a Pi Zero. Default False
+enable_object_processing: False
+```
+
+par
+
+``` yaml
+[file_manager]
+# post processing for object cancel. Not recommended for low resource SBCs such as a Pi Zero. Default False
+enable_object_processing: True
+```
+
+- Cela permet d’activer la fonction Exclude Objects qui permet d’exclure des objets individuels d’une impression en cours via ce bouton :
+
+|  |  |  |
+| :---------: | :---------: | :---------: |
+|![SMT32F407](../assets/img/configurations/exclude-objects-status-panel.png){ width="400" } | :material-arrow-right-bold:<br />Le bouton ouvre une boîte de dialogue dans laquelle vous pouvez sélectionner chaque objet individuel et l'exclure de l'impression en cours<br />:material-arrow-right-bold: | ![SMT32F429](../assets/img/configurations/exclude-objects.png){ width="400" } |
 
 <br />
 
