@@ -73,14 +73,18 @@ extra:
 markdown_extensions:
     - attr_list
     - md_in_html
-    - pymdownx.keys
     - meta
     - tables
-    - pymdownx.highlight:
-        anchor_linenums: true
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
     - pymdownx.inlinehilite
     - pymdownx.snippets
     - pymdownx.superfences
+    - pymdownx.highlight:
+        anchor_linenums: true
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
