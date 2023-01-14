@@ -86,11 +86,25 @@ par
 enable_object_processing: True
 ```
 
-- Cela permet d’activer la fonction Exclude Objects qui permet d’exclure des objets individuels d’une impression en cours via ce bouton :
+- Cela permet d’activer la fonction **Exclude Objects** qui permet d’exclure des objets individuels d’une impression en cours via ce bouton :
 
 |  |  |  |
 | :---------: | :---------: | :---------: |
-|![SMT32F407](../assets/img/configurations/exclude-objects-status-panel.png){ width="400" } | :material-arrow-right-bold:<br />Le bouton ouvre une boîte de dialogue dans laquelle vous pouvez sélectionner chaque objet individuel et l'exclure de l'impression en cours<br />:material-arrow-right-bold: | ![SMT32F429](../assets/img/configurations/exclude-objects.png){ width="400" } |
+|![SMT32F407](../assets/img/configurations/exclude-objects-status-panel.png){ width="400" } | <br /><br /><br /><br />:material-arrow-right-bold:<br />Le bouton ouvre une boîte de dialogue dans laquelle vous pouvez sélectionner chaque objet individuel et l'exclure de l'impression en cours<br />:material-arrow-right-bold: | ![SMT32F429](../assets/img/configurations/exclude-objects.png){ width="400" } |
+
+- Toujours sur le fichier **moonraker.conf**, supprimez ensuite les lignes suivantes :
+
+``` yaml
+[update_manager mainsail-config]
+type: git_repo
+primary_branch: master
+path: ~/mainsail-config
+origin: https://github.com/mainsail-crew/mainsail-config.git
+managed_services: klipper
+```
+- Cliquez sur **SAUVEGARDER ET REDÉMARRAGE** en haut à droite pour enregistrer le fichier.
+
+- Redémarrez ensuite votre Raspberry Pi.
 
 <br />
 
