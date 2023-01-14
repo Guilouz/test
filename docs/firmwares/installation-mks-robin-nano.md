@@ -11,7 +11,11 @@ hide:
 /home/pi/klipper/out/
 ```
 
-<u>Note</u> : Vous pouvez faire un clic droit sur le fichier **klipper.bin** puis **Download** et sélectionner l’emplacement de destination sur votre ordinateur via **MobaXterm** sous Windows ou via **Cyberduck** sous macOS.
+{==
+
+:octicons-info-16: Vous pouvez faire un clic droit sur le fichier **klipper.bin** puis **Download** et sélectionner l’emplacement de destination sur votre ordinateur via **MobaXterm** sous Windows ou via **Cyberduck** sous macOS.
+
+==}
 
 - Renommez-le fichier **klipper.bin** en **Robin_nano_v3.bin**.
 
