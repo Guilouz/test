@@ -7,24 +7,10 @@ hide:
 
 :warning: Il existe deux révisions de carte mères BigTreetech SKR 2.0, l'une avec un processeur **SMT32F407** appelée **Rev A** et l'autre avec un processeur **SMT32F429** appelée **Rev B**  :
 
-<table>
-<tr>
-<td>
-<img src="https://github.com/Guilouz/test/raw/main/docs/assets/img/firmwares/smt32f407.png" width="400" />
-</td>
-<td>
-SMT32F407
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://github.com/Guilouz/test/raw/main/docs/assets/img/firmwares/smt32f429.png" width="400" />
-</td>
-<td>
-SMT32F429
-</td>
-</tr>
-</table>
+| Modèle      | Processeur                           |
+| :---------: | :----------------------------------: |
+| SMT32F407   | ![SMT32F407](../assets/img/firmwares/smt32f407.png){ width="400" }  |
+| SMT32F429   | ![SMT32F429](../assets/img/firmwares/smt32f429.png){ width="400" }  |
 
 
 - Connectez-vous en SSH et saisissez ces commandes (une à la fois) :
