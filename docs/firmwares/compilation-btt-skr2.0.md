@@ -21,7 +21,7 @@ cd ~/klipper/
 make menuconfig
 ```
 
-- Sélectionnez ces paramètres :
+- Déplacez-vous sur le menu avec les touches ++"Haut"++ et ++"Bas"++ de votre clavier et validez l’élément sélectionné avec la touche ++"Entrée"++ et sélectionnez ces paramètres :
   
     * Pour les cartes mères **BigTreeTech SKR 2.0 Rev A** (STM32F407) :
 
@@ -30,8 +30,6 @@ make menuconfig
     * Pour les cartes mères **BigTreeTech SKR 2.0 Rev B** (STM32F429) :
 
     ![01](../assets/img/firmwares/skr2.0-b.png){ width="800" }
-    
-    Déplacez-vous sur le menu avec les touches ++"Haut"++ et ++"Bas"++ de votre clavier et validez l’élément sélectionné avec la touche ++"Entrée"++.
 
 - Puis sur votre clavier appuyez sur la touche ++"Q"++ puis sur ++"Y"++ pour sauvegarder la configuration.
 
