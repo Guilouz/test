@@ -5,6 +5,42 @@ hide:
 
 # Envoyer un Gcode vers Mainsail
 
+Cette fonctionnalité permet d'envoyer directement vos fichiers Gcodes vers votre Raspberry Pi.
+
+
+## Pour Cura :
+
+Démarrez Cura et rendez-vous sur **Marché en ligne** puis faites une recherche du plug-in **Moonraker Connection** et cliquez sur **Installer** :
+
+![Moonraker Connection](../assets/img/configurations/moonraker-connection-1.png){ width="400" }
+
+- Redémarrez Cura et rendez-vous dans les préférences de votre imprimante, un nouvel élément **Connect Moonraker** devrait être présent :
+
+![Moonraker Connection](../assets/img/configurations/moonraker-connection-2.png){ width="400" }
+
+- Sur l’onglet **Connection**, renseignez l’adresse IP de votre Raspberry Pi dans le champ **Addresse (URL)** :
+
+![Moonraker Connection](../assets/img/configurations/moonraker-connection-3.png){ width="400" }
+
+{==
+
+:warning: Il est important de préciser **http://** devant votre adresse IP.
+
+==}
+
+- Sur l’onglet **Upload**, cochez la case **UFP with Thumbnail** :
+
+![Moonraker Connection](../assets/img/configurations/moonraker-connection-4.png){ width="400" }
+
+- Une fois votre modèle slicé, une nouvelle option d’export apparaît en cliquant sur la flèche vers le bas :
+
+![Moonraker Connection](../assets/img/configurations/moonraker-connection-5.png){ width="200" }
+
+- Cette fonctionnalité enverra votre fichier Gcode sur votre Raspberry Pi et il sera directement visible sur Mainsail ou KlipperScreen, prêt à être imprimé.
+
+
+## Pour PrusaSlicer :
+
 
 
 <br />
