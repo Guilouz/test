@@ -112,7 +112,7 @@ logo.nologo loglevel=0 vt.global_cursor_default=0 splash silent quiet
 
 ![cmdline](../assets/img/configurations/cmdline.png){ width="600" }
 
-- Puis sur votre clavier appuyez sur les touches ++Ctrl+X++ pour quitter, ++"Y"++ pour sauvegarder et ++"Entrée"++ pour valider.
+- Puis sur votre clavier appuyez sur les touches ++"Ctrl"++ + ++"X"++ pour quitter, ++"Y"++ pour sauvegarder et ++"Entrée"++ pour valider.
 
 - Saisissez ensuite la commande suivante :
 
@@ -142,7 +142,7 @@ max_framebuffers=2
 
 ![config](../assets/img/configurations/config-2.png){ width="600" }
 
-- Puis sur votre clavier appuyez sur les touches ++Ctrl+X++ pour quitter, ++"Y"++ pour sauvegarder et ++"Entrée"++ pour valider.
+- Puis sur votre clavier appuyez sur les touches ++"Ctrl"++ + ++"X"++ pour quitter, ++"Y"++ pour sauvegarder et ++"Entrée"++ pour valider.
 
 - Saisissez ensuite la commande suivante pour redémarrer :
 
