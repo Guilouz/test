@@ -45,7 +45,7 @@ Cette fonctionnalité permet d'envoyer directement vos fichiers Gcodes vers votr
 
 ![Connexion PrusaSlicer](../assets/img/configurations/prusaslicer-connection-1.png){ width="600" }
 
-- Renseignez un nom dans le champ **Nom descriptif de l'imprimante**, définissez le type d'hôte sur **Octoprint**, renseignez l'adresse IP de votre Raspberry Pi dans le champ **Nom d'hôte, IP ou URL** et vous pouvez ensuite cliquer sur **Test** pour vérifier la connexion :
+- Renseignez un nom dans le champ **Nom descriptif de l'imprimante**, définissez le type d'hôte sur **Octoprint**, renseignez l'adresse IP de votre Raspberry Pi dans le champ **Nom d'hôte, IP ou URL** puis cliquez sur **Test** pour vérifier la connexion :
 
 ![Connexion PrusaSlicer](../assets/img/configurations/prusaslicer-connection-2.png){ width="600" }
 
