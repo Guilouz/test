@@ -5,7 +5,9 @@ hide:
 
 # Gcode de Début / Fin
 
-Il est nécessaire de modifier votre Gcode de Début et de Fin dans votre Slicer car ils sont désormais intégrés dans les macros. Cela a pour avantage de pouvoir imprimer un même modèle avec des Gcodes de Début et de Fin différents.
+Il est nécessaire de modifier votre Gcode de Début et de Fin dans votre Slicer car ils sont désormais intégrés dans les macros.
+
+Cela a pour avantage de pouvoir imprimer un même modèle avec des Gcodes de Début et de Fin différents.
 
 
 ## Pour Cura :
