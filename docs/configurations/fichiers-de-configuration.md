@@ -92,7 +92,11 @@ enable_object_processing: True
 | :---------: | :---------: | :---------: |
 |![Exclude Objects](../assets/img/configurations/exclude-objects-status-panel.png){ width="400" } | <br /><br /><br /><br />:material-arrow-right-bold:<br />Le bouton ouvre une boîte de dialogue dans laquelle vous pouvez sélectionner chaque objet individuel et l'exclure de l'impression en cours<br />:material-arrow-right-bold: | <br /><br /><br />![Exclude Objects](../assets/img/configurations/exclude-objects.png){ width="400" } |
 
-Plus d'informations sur la documentation officielle : :material-web: <a href="https://docs.mainsail.xyz/features/exclude_objects" target="_blank">Exclude Objects | Mainsail</a>
+{==
+
+:octicons-info-16: Plus d'informations sur la documentation officielle : :material-web: <a href="https://docs.mainsail.xyz/features/exclude_objects" target="_blank">Exclude Objects | Mainsail</a>
+
+==}
 
 - Toujours sur le fichier **moonraker.conf**, supprimez ensuite les lignes suivantes :
 
