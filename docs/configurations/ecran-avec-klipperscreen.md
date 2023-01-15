@@ -154,7 +154,7 @@ sudo reboot
 
 {==
 
-:warning: Certains écran HDMI nécessites des paramètres partuculiers dans le fichier **/boot/config.txt** pour fonctionner.
+:warning: Certains écrans HDMI nécessitent des paramètres spécifiques dans le fichier **/boot/config.txt** pour fonctionner.
 
 ==}
 
