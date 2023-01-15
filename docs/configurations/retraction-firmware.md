@@ -22,7 +22,7 @@ Un même modèle peut donc être imprimé avec des paramètres de rétraction di
 
 -	Activez le paramètre **Enable Firmware Retraction** comme cela sans renseigner de valeur :
 
-![Rétraction Cura](../assets/img/configurations/retraction-cura.png){ width="300" }
+![Rétraction Cura](../assets/img/configurations/retraction-cura.png){ width="400" }
 
 
 ## PrusaSclicer / SuperSlicer :
