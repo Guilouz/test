@@ -175,11 +175,8 @@ hdmi_cvt 1024 600 60 6 0 0
 - Il est également nécessaire d’ajouter cela au début du fichier  :
 
 ``` yaml
-# uncomment to force a specific HDMI mode (this will force VGA)
 hdmi_group=2
 hdmi_mode=87
 hdmi_cvt 1024 600 60 6 0 0 0
-# uncomment to force a HDMI mode rather than DVI. This can make audio work in
-# DMT (computer monitor) modes
 hdmi_drive=1
 ```
