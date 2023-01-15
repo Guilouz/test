@@ -61,7 +61,7 @@ Cette fonctionnalité permet d'envoyer directement vos fichiers Gcodes vers votr
 
 - Il suffit ensuite de valider l'envoi de votre fichier Gcode sur votre Raspberry Pi et il sera directement visible sur Mainsail ou KlipperScreen, prêt à être imprimé :
 
-![Connexion PrusaSlicer](../assets/img/configurations/prusaslicer-connection-5.png){ width="300" }
+![Connexion PrusaSlicer](../assets/img/configurations/prusaslicer-connection-5.png){ width="400" }
 
 <br />
 
