@@ -75,4 +75,4 @@ END_PRINT
 
 <br />
 
-Vous pouvez ensuite continuer vers la section :material-arrow-right-box: [Utilisation de la Retraction Firmware](../configurations/retraction-firmware.md).
+Vous pouvez ensuite continuer vers la section :material-arrow-right-box: [Utilisation de la Rétraction Firmware](../configurations/retraction-firmware.md).
