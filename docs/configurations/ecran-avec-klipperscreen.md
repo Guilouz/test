@@ -47,7 +47,7 @@ requirements: scripts/KlipperScreen-requirements.txt
 install_script: scripts/KlipperScreen-install.sh
 ```
 
-- Cela permet d’obtenir les futures mise à jour de KlipperScreen.
+- Cela permet d’obtenir les futures mises à jour de ma version de KlipperScreen.
 
 <br />
 
