@@ -25,7 +25,7 @@ Un même modèle peut donc être imprimé avec des paramètres de rétraction di
 ![Rétraction Cura](../assets/img/configurations/retraction-cura.png){ width="400" }
 
 
-## PrusaSclicer / SuperSlicer :
+## Pour PrusaSclicer / SuperSlicer :
 
 - Il est juste nécessaire d'activer le paramètre **Utiliser la rétraction du firmware** depuis l’onglet **Réglages de l’imprimante** --> **Général** comme cela :
 
