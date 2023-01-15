@@ -47,7 +47,7 @@ requirements: scripts/KlipperScreen-requirements.txt
 install_script: scripts/KlipperScreen-install.sh
 ```
 
-- Cela permet d’obtenir les futures mise à jour de KlipperScreen.
+- Cela permet d’obtenir les futures mises à jour de ma version de KlipperScreen.
 
 <br />
 
@@ -60,7 +60,7 @@ install_script: scripts/KlipperScreen-install.sh
 - Télécharger le pack de boot en fonction de votre résolution de votre écran et dézippez-le :
 
     * <a href="https://github.com/Guilouz/Klipper-Flsun-Super-Racer/raw/main/Downloads/Pack_Boot_800x480.rar" target="_blank">Pack Boot 800x480</a>
-    * <a href="https://github.com/Guilouz/Klipper-Flsun-Super-Racer/raw/main/Downloads/Pack_Boot_1200x600.rar" target="_blank">Pack Boot 1024x600</a>
+    * <a href="https://github.com/Guilouz/Klipper-Flsun-Super-Racer/raw/main/Downloads/Pack_Boot_1024x600.rar" target="_blank">Pack Boot 1024x600</a>
 
 - Lancez le logiciel **MobaXterm** sous Windows ou **Cyberduck** sous macOS et connectez vous.
 
@@ -112,7 +112,7 @@ logo.nologo loglevel=0 vt.global_cursor_default=0 splash silent quiet
 
 ![cmdline](../assets/img/configurations/cmdline.png){ width="600" }
 
-- Puis sur votre clavier appuyez sur les touches ++Ctrl+X++ pour quitter, ++"Y"++ pour sauvegarder et ++"Entrée"++ pour valider.
+- Puis sur votre clavier appuyez sur les touches ++"Ctrl"++ + ++"X"++ pour quitter, ++"Y"++ pour sauvegarder et ++"Entrée"++ pour valider.
 
 - Saisissez ensuite la commande suivante :
 
@@ -142,7 +142,7 @@ max_framebuffers=2
 
 ![config](../assets/img/configurations/config-2.png){ width="600" }
 
-- Puis sur votre clavier appuyez sur les touches ++Ctrl+X++ pour quitter, ++"Y"++ pour sauvegarder et ++"Entrée"++ pour valider.
+- Puis sur votre clavier appuyez sur les touches ++"Ctrl"++ + ++"X"++ pour quitter, ++"Y"++ pour sauvegarder et ++"Entrée"++ pour valider.
 
 - Saisissez ensuite la commande suivante pour redémarrer :
 
@@ -150,9 +150,11 @@ max_framebuffers=2
 sudo reboot
 ```
 
+<br />
+
 {==
 
-:warning: Certains écran HDMI nécessites des paramètres partuculiers dans le fichier **/boot/config.txt** pour fonctionner.
+:warning: Certains écrans HDMI nécessitent des paramètres spécifiques dans le fichier **/boot/config.txt** pour fonctionner.
 
 ==}
 
@@ -173,11 +175,8 @@ hdmi_cvt 1024 600 60 6 0 0
 - Il est également nécessaire d’ajouter cela au début du fichier  :
 
 ``` yaml
-# uncomment to force a specific HDMI mode (this will force VGA)
 hdmi_group=2
 hdmi_mode=87
 hdmi_cvt 1024 600 60 6 0 0 0
-# uncomment to force a HDMI mode rather than DVI. This can make audio work in
-# DMT (computer monitor) modes
 hdmi_drive=1
 ```
