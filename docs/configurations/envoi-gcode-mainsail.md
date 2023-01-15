@@ -10,7 +10,7 @@ Cette fonctionnalité permet d'envoyer directement vos fichiers Gcodes vers votr
 
 ## Pour Cura :
 
-Démarrez Cura et rendez-vous sur **Marché en ligne** puis faites une recherche du plug-in **Moonraker Connection** et cliquez sur **Installer** :
+- Démarrez Cura et rendez-vous sur **Marché en ligne** puis faites une recherche du plug-in **Moonraker Connection** et cliquez sur **Installer** :
 
 ![Moonraker Connection](../assets/img/configurations/moonraker-connection-1.png){ width="600" }
 
