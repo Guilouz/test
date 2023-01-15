@@ -150,6 +150,8 @@ max_framebuffers=2
 sudo reboot
 ```
 
+<br />
+
 {==
 
 :warning: Certains écran HDMI nécessites des paramètres partuculiers dans le fichier **/boot/config.txt** pour fonctionner.
