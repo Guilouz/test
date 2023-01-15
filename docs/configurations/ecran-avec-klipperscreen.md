@@ -60,7 +60,7 @@ install_script: scripts/KlipperScreen-install.sh
 - Télécharger le pack de boot en fonction de votre résolution de votre écran et dézippez-le :
 
     * <a href="https://github.com/Guilouz/Klipper-Flsun-Super-Racer/raw/main/Downloads/Pack_Boot_800x480.rar" target="_blank">Pack Boot 800x480</a>
-    * <a href="https://github.com/Guilouz/Klipper-Flsun-Super-Racer/raw/main/Downloads/Pack_Boot_1200x600.rar" target="_blank">Pack Boot 1024x600</a>
+    * <a href="https://github.com/Guilouz/Klipper-Flsun-Super-Racer/raw/main/Downloads/Pack_Boot_1024x600.rar" target="_blank">Pack Boot 1024x600</a>
 
 - Lancez le logiciel **MobaXterm** sous Windows ou **Cyberduck** sous macOS et connectez vous.
 
