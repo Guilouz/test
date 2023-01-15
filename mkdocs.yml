@@ -118,6 +118,7 @@ nav:
         - Changements coté Slicers:
             - GCode de Début / Fin: configurations/gcode-de-debut-fin.md
             - Rétraction Firmware: configurations/retraction-firmware.md
+            - Envoyer un Gcode vers Mainsail: configurations/envoi-gcode-mainsail.md
         - Ecran avec KlipperScreen: configurations/ecran-avec-klipperscreen.md
         - ADXL: configurations/adxl.md
         - NeoPixels: configurations/neopixels.md
