@@ -131,7 +131,7 @@ serial: /dev/serial/by-id/usb-Klipper_rp2040_E6605481DB318D34-if00
   
 {==
 
-:octicons-info-16:Après les tests, il est préférable de désactiver l'ADXL en commentant à nouveau la ligne suivante **[include adxl345.cfg]** dans le fichier **printer.cfg**.
+:octicons-info-16: Après les tests, il est préférable de désactiver l'ADXL en commentant à nouveau la ligne suivante **[include adxl345.cfg]** dans le fichier **printer.cfg**.
   
 ==}
 
