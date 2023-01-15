@@ -22,6 +22,8 @@ Ici nous allons utiliser le **Fysetc Portable Input Shaper** pour mesurer les r�
 :octicons-info-16: Il est nécessaire de couper les bords jaunes pour réduire la largeur.
  
 ==}
+  
+<br />
 
 - Vérifiez que les dépendances nécessaires au fonctionnement de l’accéléromètre sont à jour en saisissant les commandes suivantes (une commande à la fois) :
 
@@ -91,5 +93,48 @@ ls /dev/serial/by-id/*
 
 - Vous devriez voir apparaître 2 serial USB, celui de l’accéléromètre est celui avec la mention **Klipper_rp2040** :
 
+![Fysetc Portable Input Shaper](../assets/img/configurations/pis-3.png){ width="600" }
 
+- Rendez-vous sur l'interface Web de Mainsail via votre navigateur Web en saisissant l'adresse IP de votre Raspberry Pi.
 
+- Rendez-vous dans l'onglet **Machine**, ouvrez le fichier **adxl345.cfg** et modifiez la section **[mcu PIS]** :
+ 
+``` yaml
+[mcu PIS]
+serial: XXXXX
+```
+
+En remplaçant les *XXXXX* par le serial obtenu.
+
+``` yaml
+[mcu PIS]
+serial: /dev/serial/by-id/usb-Klipper_rp2040_E6605481DB318D34-if00
+```
+  
+{==
+
+:octicons-info-16: Chaque serial est différent, il est donc normal que vous n'ayez pas exactement le même que celui ci-dessus.
+
+==}
+
+- Cliquez sur **SAUVEGARDER ET REDÉMARRAGE** en haut à droite pour enregistrer le fichier.
+
+- Décommentez (supprimez le #) la ligne suivante dans le fichier **printer.cfg** pour activer la prise en charge de l’ADXL :
+
+``` yaml 
+[include adxl345.cfg]
+```
+
+- Cliquez sur **SAUVEGARDER ET REDÉMARRAGE** en haut à droite pour enregistrer le fichier.
+
+- Après le redémarrage du firmware, vous devriez voir le **MCU PIS** de l’accéléromètre présent.
+  
+{==
+
+:octicons-info-16:Après les tests, il est préférable de désactiver l'ADXL en commentant à nouveau la ligne suivante **[include adxl345.cfg]** dans le fichier **printer.cfg**.
+  
+==}
+
+<br />
+
+Pour l'utilisation de l'ADXL vous pouvez continuer vers la section :material-arrow-right-box: [Input Shaping](../calibrations/input-shaping.md).
