@@ -7,6 +7,7 @@ hide:
 
 Le Z-Offset est la distance entre la buse et le plateau lorsque le palpeur se déclenche.
 
+<br />
 
 - Pour mesurer le Z-Offset vous pouvez passer par l'écran ou lancer directement cette macro :
 
@@ -71,4 +72,3 @@ SECURITY_OFFSET
 Vous trouverez plus d'informations sur la documentation officielle : :material-web: <a href="https://www.klipper3d.org/Probe_Calibrate.html#calibrating-probe-z-offset" target="blank">Calibrating Probe Z Offset | Klipper</a>
 
 <br />
-
