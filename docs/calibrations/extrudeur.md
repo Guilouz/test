@@ -73,7 +73,7 @@ filament_diameter: 1.750
     * Ma valeur demandée {==distance_demandée==} de **100** mm.
     * Ma valeur obtenue {==distance_mesurée==} de **18** mm.
 
-- Je calcule donc ma distance d’extrusion actuel pour 100 mm demandé :
+- Je calcule donc ma distance d’extrusion actuelle pour 100 mm demandée :
 
   {==distance_de_la_marque==} :fontawesome-solid-minus: {==distance_mesurée==} :fontawesome-solid-arrow-right-long: {==distance_extrusion==}
 
