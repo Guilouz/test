@@ -9,6 +9,8 @@ La calibration Delta consiste à trouver les positions de butée des tours, les 
 
 Ces paramètres contrôlent le mouvement de l'imprimante sur une imprimante Delta. Chacun de ces paramètres a un impact non évident et non linéaire et il est difficile de les calibrer manuellement. En revanche, la calibration Delta automatique peut fournir d'excellents résultats en quelques minutes seulement.
 
+<br />
+
 - Pour démarrer la calibration Delta vous pouvez passer par l'écran ou lancer directement cette macro :
 
 {==
