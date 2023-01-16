@@ -7,6 +7,7 @@ hide:
 
 Il est important de réaliser les calibrations de PID afin d'avoir une chauffe constante de la buse et du plateau.
 
+<br />
 
 - Pour calibrer le **PID de la Buse**, lancez la macro suivante :
 
