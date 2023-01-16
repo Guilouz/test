@@ -61,8 +61,6 @@ filament_diameter: 1.750
 
 - Remplacez ensuite la nouvelle valeur dans le fichier **printer.cfg** en arrondissant la nouvelle **rotation_distance** à trois décimales.
 
-<br />
-
 ## Exemple :
 
 - Après avoir extrudé 100 mm, je mesure une distance de **18** mm entre l’entrée de mon extrudeur et le trait sur le filament.
@@ -88,6 +86,8 @@ filament_diameter: 1.750
     7.805 :fontawesome-solid-xmark: 102 :fontawesome-solid-divide: 100 :fontawesome-solid-arrow-right-long: **7.9611**
 
 - Je remplace donc la ligne **rotation_distance: 7.805** du fichier **printer.cfg** par **rotation_distance: 7.961**.
+
+<br />
 
 - Vous trouverez plus d'informations sur la documentation officielle : :material-web: <a href="https://www.klipper3d.org/Rotation_Distance.html" target="blank">Rotation Distance | Klipper</a>
 
