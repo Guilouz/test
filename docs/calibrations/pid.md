@@ -8,7 +8,7 @@ hide:
 Il est important de réaliser les calibrations de PID afin d'avoir une chauffe constante de la buse et du plateau.
 
 
-- Pour calibrer le PID de la Buse, lancez la macro suivante :
+- Pour calibrer le **PID de la Buse**, lancez la macro suivante :
 
 ``` yaml
 CALIBRATION_PID_HOTEND_220
@@ -16,15 +16,15 @@ CALIBRATION_PID_HOTEND_220
 
 {==
 
-:octicons-info-16: Il est possible de choisir la température de calibration de la Hotend en cliquant sur la flèche de la macro.
+:octicons-info-16: Il est possible de choisir la température de calibration de la buse en cliquant sur la flèche de la macro.
 
 ==}
 
-- Les nouvelles valeurs PID de la Buse seront enregistrées automatiquement dans le fichier **printer.cfg** à la fin du processus.
+- Les nouvelles valeurs PID de la buse seront enregistrées automatiquement dans le fichier **printer.cfg** à la fin du processus.
 
 <br />
 
-- Pour calibrer le PID du Plateau, lancez la macro suivante :
+- Pour calibrer le **PID du Plateau**, lancez la macro suivante :
 
 ``` yaml
 CALIBRATION_PID_BED_65
