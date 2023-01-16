@@ -75,7 +75,7 @@ Inspectez l'impression, puis utilisez un pied à coulisse numérique pour trouve
 
 ==}
 
-- Rendez-vous dans l'onglet **Machine** sur le menu latéral gauche, ouvrez le fichier **printer.cfg** et modifiez la ligne **pressure_advance** de la section **Paramètres Extrudeur & Driver** (retirez également le # pour activer la fonctionnalité) :
+- Rendez-vous dans l'onglet **Machine** sur le menu latéral gauche, ouvrez le fichier **printer.cfg** et modifiez la ligne **pressure_advance** de la section **Paramètres Extrudeur & Driver** en y reportant votre valeur obtenue (retirez également les # pour activer la fonctionnalité) :
 
 ``` yaml hl_lines="19 20" title="printer.cfg"
 ########################################
