@@ -5,7 +5,7 @@ hide:
 
 # Configuration des NeoPixels
 
-![NeoPixels](../assets/img/configurations/neopixels-1.png){ width="800" }
+![NeoPixels](../assets/img/configurations/neopixels-1.png){ width="100%" }
 
 - Vous pouvez retrouver mon support NeoPixels Ring Light ici : :material-web: <a href="https://www.printables.com/model/272995-flsun-neopixels-ring-light-support" target="_blank">Printables</a>
 
