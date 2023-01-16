@@ -79,7 +79,7 @@ square_corner_velocity: 5.0
 
 {==
 
-:octicons-info-16: Les tests de résonances doivent de nouveau être effectuer après une maintenance sur l'imprimante ou si celle-ci a été déplacée.
+:octicons-info-16: Les tests de résonances doivent de nouveau être effectués après une maintenance sur l'imprimante ou si celle-ci a été déplacée.
   
 ==}
 
