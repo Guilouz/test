@@ -19,7 +19,7 @@ Afin d'éviter que votre Raspberry Pi ne change d'adresse IP à chaque démarrag
 sudo nano /etc/dhcpcd.conf
 ```
 
-- Descendez jusqu'à la fin du fichier et copiez ces lignes en remplaçant les **XXX.XXX.XXX.XXX** par les adresses IP correspondantes :
+- Descendez jusqu'à la fin du fichier et copiez ces lignes :
 
 {==
 
