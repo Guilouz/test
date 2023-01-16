@@ -44,7 +44,7 @@ Cette étape permet de mettre en place les fichiers de configuration de votre im
 
 - Une fois importés, ouvrez le fichier **printer.cfg** et modifiez la ligne suivante dans la section **Paramètres MCU** :
 
-``` yaml
+``` yaml title="printer.cfg"
 ########################################
 # Paramètres MCU
 ########################################
@@ -55,7 +55,7 @@ serial: XXXXXX
 
 En remplaçant les *XXXXX* par le serial obtenu dans la section :material-arrow-right-box: [Récupération du Serial USB](../configurations/recuperation-du-serial-usb.md).
 
-``` yaml
+``` yaml title="printer.cfg"
 ########################################
 # Paramètres MCU
 ########################################
@@ -72,7 +72,7 @@ serial: /dev/serial/by-id/usb-Klipper_stm32g0b1xx_2F0034001050415833323520-if00
 
 - Ouvrez ensuite le fichier **moonraker.conf** et modifiez la ligne suivante :
 
-``` yaml
+``` yaml title="moonraker.conf"
 [file_manager]
 # post processing for object cancel. Not recommended for low resource SBCs such as a Pi Zero. Default False
 enable_object_processing: False
@@ -80,7 +80,7 @@ enable_object_processing: False
 
 par
 
-``` yaml
+``` yaml title="moonraker.conf"
 [file_manager]
 # post processing for object cancel. Not recommended for low resource SBCs such as a Pi Zero. Default False
 enable_object_processing: True
@@ -100,7 +100,7 @@ enable_object_processing: True
 
 - Toujours sur le fichier **moonraker.conf**, supprimez ensuite les lignes suivantes :
 
-``` yaml
+``` yaml title="moonraker.conf"
 [update_manager mainsail-config]
 type: git_repo
 primary_branch: master
