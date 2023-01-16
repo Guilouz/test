@@ -24,8 +24,8 @@ Ici nous allons utiliser le **Fysetc Portable Input Shaper** pour mesurer les r�
 ==}
   
 <br />
-
-- Vérifiez que les dépendances nécessaires au fonctionnement de l’accéléromètre sont à jour en saisissant les commandes suivantes (une commande à la fois) :
+  
+- Connectez-vous en SSH et vérifiez que les dépendances nécessaires au fonctionnement de l’accéléromètre sont à jour en saisissant les commandes suivantes (une commande à la fois) :
 
 ``` yaml
 sudo apt update
