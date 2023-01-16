@@ -37,6 +37,7 @@ ADXL_NOISE
 ``` yaml
 ADXL_AXE_X
 ```
+
 - Le résultat vous indique le type et la fréquence recommandée pour l'axe X ainsi que la valeur d'accélération maximum recommandée.
 
 - Pour mesurer les résonances de l’axe X, lancez la macro suivante :
