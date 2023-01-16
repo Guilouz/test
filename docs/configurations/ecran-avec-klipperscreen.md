@@ -7,9 +7,9 @@ hide:
 
 Vous trouvez ici plusieurs STL de supports pour différents types d'écrans :
 
-- :material-download: <a href="https://github.com/Guilouz/Klipper-Flsun-Super-Racer/raw/main/Downloads/Support_Ecran_BigTreeTech_PITFT70_by_Guilouz" target="_blank">Support Ecran BigTreeTech PITFT70</a>
+- :material-download: <a href="https://github.com/Guilouz/Klipper-Flsun-Super-Racer/raw/main/Downloads/Support_Ecran_BigTreeTech_PITFT70_by_Guilouz.rar" target="_blank">Support Ecran BigTreeTech PITFT70</a>
 
-- :material-download: <a href="https://github.com/Guilouz/Klipper-Flsun-Super-Racer/raw/main/Downloads/Support_Ecran_Officiel_Raspberry_Pi_7_by_Guilouz" target="_blank">Support Ecran Officiel Raspberry Pi 7'</a>
+- :material-download: <a href="https://github.com/Guilouz/Klipper-Flsun-Super-Racer/raw/main/Downloads/Support_Ecran_Officiel_Raspberry_Pi_7_by_Guilouz.rar" target="_blank">Support Ecran Officiel Raspberry Pi 7'</a>
 
 - :material-download: <a href="https://github.com/Guilouz/Klipper-Flsun-Super-Racer/raw/main/Downloads/Support_Ecran_Waveshare_7inch_Capacitive_Touch_Screen_LCD_(H)_by_snowjo67500.rar" target="_blank">Support Ecran Waveshare 7inch Capacitive Touch Screen LCD (H)</a>
 
