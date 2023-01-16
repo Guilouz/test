@@ -222,3 +222,9 @@ Macro {==CANCEL_PRINT==} : Permet d’annuler l’impression en cours.
 ==}
 
 <br />
+
+- Pour masquer une macro il suffit de vous rendre dans les **Paramètres** de Mainsail puis de la décocher depuis l'onglet **MACROS** :
+
+![Pressure Advance](../assets/img/calibrations/macros.png){ width="600" }
+
+<br />
