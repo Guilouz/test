@@ -44,24 +44,26 @@ Cette étape permet de mettre en place les fichiers de configuration de votre im
 
 - Une fois importés, ouvrez le fichier **printer.cfg** et modifiez la ligne suivante dans la section **Paramètres MCU** :
 
-``` yaml title="printer.cfg"
+``` yaml hl_lines="6" title="printer.cfg"
 ########################################
 # Paramètres MCU
 ########################################
 
 [mcu]
 serial: XXXXXX
+restart_method: command
 ```
 
 En remplaçant les *XXXXX* par le serial obtenu dans la section :material-arrow-right-box: [Récupération du Serial USB](../configurations/recuperation-du-serial-usb.md).
 
-``` yaml title="printer.cfg"
+``` yaml hl_lines="6" title="printer.cfg"
 ########################################
 # Paramètres MCU
 ########################################
 
 [mcu]
 serial: /dev/serial/by-id/usb-Klipper_stm32g0b1xx_2F0034001050415833323520-if00
+restart_method: command
 ```
 
 - Cliquez sur **SAUVEGARDER ET REDÉMARRAGE** en haut à droite pour enregistrer le fichier.
@@ -72,7 +74,7 @@ serial: /dev/serial/by-id/usb-Klipper_stm32g0b1xx_2F0034001050415833323520-if00
 
 - Ouvrez ensuite le fichier **moonraker.conf** et modifiez la ligne suivante :
 
-``` yaml title="moonraker.conf"
+``` yaml hl_lines="3" title="moonraker.conf"
 [file_manager]
 # post processing for object cancel. Not recommended for low resource SBCs such as a Pi Zero. Default False
 enable_object_processing: False
@@ -80,7 +82,7 @@ enable_object_processing: False
 
 par
 
-``` yaml title="moonraker.conf"
+``` yaml hl_lines="3" title="moonraker.conf"
 [file_manager]
 # post processing for object cancel. Not recommended for low resource SBCs such as a Pi Zero. Default False
 enable_object_processing: True
