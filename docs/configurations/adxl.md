@@ -53,7 +53,7 @@ make menuconfig
 
 - Déplacez-vous sur le menu avec les touches ++"Haut"++ et ++"Bas"++ de votre clavier et validez l’élément sélectionné avec la touche ++"Entrée"++ et sélectionnez ces paramètres :
   
-![Fysetc Portable Input Shaper](../assets/img/configurations/pis-2.png){ width="600" }
+![Fysetc Portable Input Shaper](../assets/img/configurations/pis-2.png){ width="800" }
 
 - Saisissez les commandes suivantes pour compiler le firmware (une à la fois) :
 
