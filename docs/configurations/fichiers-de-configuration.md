@@ -8,7 +8,9 @@ hide:
 Cette étape permet de mettre en place les fichiers de configuration de votre imprimante et les différentes macros.
 
 
-- Téléchargez la dernière version du Pack en haut à droite du site.
+- Téléchargez la dernière version du Pack de configuration en haut à droite du site :
+
+![Download](../assets/img/configurations/download.png){ width="400" }
 
 - Rendez-vous sur l'interface Web de Mainsail via votre navigateur Web en saisissant l'adresse IP de votre Raspberry Pi.
 
