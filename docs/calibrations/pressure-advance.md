@@ -53,9 +53,9 @@ Une fois entièrement imprimé, le test d'impression ressemble à cela :
 
 ![Pressure Advance](../assets/img/calibrations/pressure-1.png){ width="400" }
 
-La commande TUNING_TOWER ci-dessus demande à Klipper de modifier le paramètre pressure_advance sur chaque couche de l'impression. Les couches supérieures de l'impression auront une valeur d'avance de pression plus élevée. Les couches inférieures auront des bavures dans les coins, et les couches au-dessus du réglage idéal peuvent conduire à des coins arrondis et à une mauvaise extrusion menant au coin.
+La commande TUNING_TOWER ci-dessus demande à Klipper de modifier le paramètre pressure_advance sur chaque couche de l'impression. Les couches supérieures de l'impression auront une valeur **pressure_advance** plus élevée. Les couches inférieures auront des bavures dans les coins, et les couches au-dessus du réglage idéal peuvent conduire à des coins arrondis et à une mauvaise extrusion menant au coin.
 
-On peut annuler l'impression plus tôt si l'on constate que les coins ne s'impriment plus bien (et ainsi on peut éviter d'imprimer des couches dont on sait qu'elles sont au-dessus de la valeur idéale de pression_avance).
+On peut annuler l'impression plus tôt si l'on constate que les coins ne s'impriment plus bien (et ainsi on peut éviter d'imprimer des couches dont on sait qu'elles sont au-dessus de la valeur idéale de **pressure_advance**).
 
 Inspectez l'impression, puis utilisez un pied à coulisse numérique pour trouver la hauteur qui a les meilleurs coins de qualité. En cas de doute, préférez une hauteur inférieure :
 
@@ -63,7 +63,7 @@ Inspectez l'impression, puis utilisez un pied à coulisse numérique pour trouve
 
 - La valeur **pressure_advance** peut alors être calculée comme cela :
 
-    {==START==} :fontawesome-solid-plus: {==hauteur_mesurée==} :fontawesome-solid-xmark: {==FACTOR==} :fontawesome-solid-arrow-right-long: pressure_advance
+    {==START==} :fontawesome-solid-plus: {==hauteur_mesurée==} :fontawesome-solid-xmark: {==FACTOR==} :fontawesome-solid-arrow-right-long: {==pressure_advance==}
   
     Par exemple : 0 :fontawesome-solid-plus: 12.90 :fontawesome-solid-xmark: 0.005 :fontawesome-solid-arrow-right-long: 0.0645
     
@@ -101,6 +101,8 @@ pressure_advance_smooth_time: 0.01
 max_extrude_only_distance: 800.0
 instantaneous_corner_velocity: 2.5
 ```
+
+- Cliquez sur **SAUVEGARDER ET REDÉMARRAGE** en haut à droite pour enregistrer le fichier.
 
 <br />
 
