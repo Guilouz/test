@@ -5,7 +5,7 @@ hide:
 
 # Installation des fichiers de configuration
 
-Cette étape permet de mettre en place les fichiers de configuration de votre imprimante et les différentes macros.
+Cette étape permet de mettre en place les fichiers de configurations de votre imprimante et les différentes macros.
 
 
 - Téléchargez la dernière version du Pack de configuration en haut à droite du site :
