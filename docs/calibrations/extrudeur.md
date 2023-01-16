@@ -89,5 +89,6 @@ filament_diameter: 1.750
 
 - Je remplace donc la ligne **rotation_distance: 7.805** du fichier **printer.cfg** par **rotation_distance: 7.961**.
 
-- Vous trouverez plus d'informations sur la documentation officielle : material-web: <a href="https://www.klipper3d.org/Rotation_Distance.html" target="blank">Rotation Distance | Klipper</a>
+- Vous trouverez plus d'informations sur la documentation officielle : :material-web: <a href="https://www.klipper3d.org/Rotation_Distance.html" target="blank">Rotation Distance | Klipper</a>
 
+<br />
