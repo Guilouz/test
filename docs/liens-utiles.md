@@ -25,8 +25,6 @@ Avant d'utiliser Klipper, veuillez consulter ces documentations :
 
 # STL utiles
 
-- Support pour Fysetc Portable Input Shaper : <a href="https://www.thingiverse.com/thing:5634625" target="_blank">https://www.thingiverse.com/thing:5634625</a>
-- Support NeoPixels Ring Light : <a href="https://www.printables.com/model/272995-flsun-neopixels-ring-light-support" target="_blank">https://www.printables.com/model/272995-flsun-neopixels-ring-light-support</a>
 - Certains STL sont fournis dans le dossier STL du Pack.                                                                  
 
 <br />
