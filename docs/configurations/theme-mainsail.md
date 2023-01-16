@@ -27,7 +27,7 @@ Vous trouverez plus d'informations sur la documentation officelle : :material-we
 
 ![Thème Mainsail](../assets/img/configurations/theme-2.png){ width="600" }
 
-- Et nommez ce dossier **.theme** :
+- Nommez ce dossier **.theme** et cliquez sur **CRÉER** :
 
 ![Thème Mainsail](../assets/img/configurations/theme-3.png){ width="400" }
 
