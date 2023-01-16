@@ -68,7 +68,19 @@ max_accel_to_decel: 2000
 square_corner_velocity: 5.0
 ```
 
+- Commentez (ajoutez un #) devant la ligne suivante dans le fichier **printer.cfg** pour désactiver la prise en charge de l’ADXL :
+
+``` yaml title="printer.cfg"
+#[include adxl345.cfg]  #Activer si vous souhaitez utiliser l'ADXL (doit être désactivé après utilisation)
+```
+
 - Cliquez sur **SAUVEGARDER ET REDÉMARRAGE** en haut à droite pour enregistrer le fichier.
+
+{==
+
+:octicons-info-16: Les tests de résonances doivent de nouveau être effectuer après une maintenance sur l'imprimante ou si celle-ci a été déplacée.
+  
+==}
 
 <br />
 
