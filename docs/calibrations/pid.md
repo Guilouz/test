@@ -40,6 +40,6 @@ CALIBRATION_PID_BED_65
 
 <br />
 
-- Vous trouverez plus d'informations sur la documentation officielle : :material-web: <a href="https://www.klipper3d.org/Config_checks.html?h=pid#calibrate-pid-settings" target="blank">Calibrate PID settings | Klipper</a>
+Vous trouverez plus d'informations sur la documentation officielle : :material-web: <a href="https://www.klipper3d.org/Config_checks.html?h=pid#calibrate-pid-settings" target="blank">Calibrate PID settings | Klipper</a>
 
 <br />
