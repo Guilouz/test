@@ -35,7 +35,7 @@ G1 E100 F100
 
 - Calculez ensuite : 
 
-  {==distance_de_la_marque==} :fontawesome-solid-minus: {==distance_mesurée==} :fontawesome-solid-arrow-right-long: {==distance_extrusion==}
+    {==distance_de_la_marque==} :fontawesome-solid-minus: {==distance_mesurée==} :fontawesome-solid-arrow-right-long: {==distance_extrusion==}
 
 - Récupérez ensuite la valeur {==rotation_distance_actuelle==} dans le fichier **printer.cfg** à la ligne **rotation_distance:** de la section **Paramètres Extrudeur & Driver** :
 
@@ -57,7 +57,7 @@ filament_diameter: 1.750
 
 - Calculez la rotation_distance comme suit :
 
-  {==rotation_distance_actuelle==} :fontawesome-solid-xmark: {==distance_extrusion==} :fontawesome-solid-divide: {==distance_demandée==} :fontawesome-solid-arrow-right-long: {==rotation_distance==}
+    {==rotation_distance_actuelle==} :fontawesome-solid-xmark: {==distance_extrusion==} :fontawesome-solid-divide: {==distance_demandée==} :fontawesome-solid-arrow-right-long: {==rotation_distance==}
 
 - Remplacez ensuite la nouvelle valeur dans le fichier **printer.cfg** en arrondissant la nouvelle **rotation_distance** à trois décimales.
 
@@ -75,17 +75,17 @@ filament_diameter: 1.750
 
 - Je calcule donc ma distance d’extrusion actuelle pour 100 mm demandée :
 
-  {==distance_de_la_marque==} :fontawesome-solid-minus: {==distance_mesurée==} :fontawesome-solid-arrow-right-long: {==distance_extrusion==}
+    {==distance_de_la_marque==} :fontawesome-solid-minus: {==distance_mesurée==} :fontawesome-solid-arrow-right-long: {==distance_extrusion==}
 
-  120 :fontawesome-solid-minus: 18 :fontawesome-solid-arrow-right-long: **102** mm
+    120 :fontawesome-solid-minus: 18 :fontawesome-solid-arrow-right-long: **102** mm
 
 - Je récupére la valeur {==rotation_distance_actuelle==} dans le fichier **printer.cfg**.
 
 - Je calcule donc ensuite ma nouvelle valeur de rotation_distance :
 
-  {==rotation_distance_actuelle==} :fontawesome-solid-xmark: {==distance_extrusion==} :fontawesome-solid-divide: {==distance_demandée==}
+    {==rotation_distance_actuelle==} :fontawesome-solid-xmark: {==distance_extrusion==} :fontawesome-solid-divide: {==distance_demandée==}
 
-  7.805 :fontawesome-solid-xmark: 102 :fontawesome-solid-divide: 100 :fontawesome-solid-arrow-right-long: **7.961**
+    7.805 :fontawesome-solid-xmark: 102 :fontawesome-solid-divide: 100 :fontawesome-solid-arrow-right-long: **7.961**
 
 - Je remplace donc la ligne **rotation_distance: 7.805** du fichier **printer.cfg** par **rotation_distance: 7.961**.
 
