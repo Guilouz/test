@@ -9,7 +9,7 @@ Klipper intégre le support de l'accéléromètre ADXL345, qui peut être utilis
 
 <br />
 
-Il en convient que vous ayez suivi la procédure de calibration au préalable via cette section :material-arrow-right-box: [Configuration de l'ADXL](../configurations/adxl.md).
+Il en convient que vous ayez suivi la procédure de configuration de l'ADXL au préalable via cette section :material-arrow-right-box: [Configuration de l'ADXL](../configurations/adxl.md).
 
 - Pour tester la connexion de l'accéléromètre, lancez la macro suivante :
 
