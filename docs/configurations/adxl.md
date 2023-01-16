@@ -122,7 +122,7 @@ serial: /dev/serial/by-id/usb-Klipper_rp2040_E6605481DB318D34-if00
 - Décommentez (supprimez le #) la ligne suivante dans le fichier **printer.cfg** pour activer la prise en charge de l’ADXL :
 
 ``` yaml 
-[include adxl345.cfg]
+[include adxl345.cfg]  #Activer si vous souhaitez utiliser l'ADXL (doit être désactivé après utilisation)
 ```
 
 - Cliquez sur **SAUVEGARDER ET REDÉMARRAGE** en haut à droite pour enregistrer le fichier.
