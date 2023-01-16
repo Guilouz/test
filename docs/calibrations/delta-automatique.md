@@ -5,7 +5,9 @@ hide:
 
 # Calibration Delta Automatique
 
-La calibration Delta consiste à trouver les positions de butée des tours, les angles des tours, le rayon delta et les longueurs des bras. Ces paramètres contrôlent le mouvement de l'imprimante sur une imprimante delta. Chacun de ces paramètres a un impact non évident et non linéaire et il est difficile de les calibrer manuellement. En revanche, la calibration Delta peut fournir d'excellents résultats en quelques minutes seulement.
+La calibration Delta consiste à trouver les positions de butée des tours, les angles des tours, le rayon delta et les longueurs des bras. 
+
+Ces paramètres contrôlent le mouvement de l'imprimante sur une imprimante Delta. Chacun de ces paramètres a un impact non évident et non linéaire et il est difficile de les calibrer manuellement. En revanche, la calibration Delta automatique peut fournir d'excellents résultats en quelques minutes seulement.
 
 - Pour démarrer la calibration Delta vous pouvez passer par l'écran ou lancer directement cette macro :
 
