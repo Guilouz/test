@@ -37,7 +37,7 @@ sudo reboot
 
 - Ouvrez le fichier **moonraker.conf** et modifiez la section **[update_manager KlipperScreen]** comme suit :
 
-``` yaml title="moonraker.conf"
+``` yaml hl_lines="4" title="moonraker.conf"
 [update_manager KlipperScreen]
 type: git_repo
 path: /home/pi/KlipperScreen
@@ -134,7 +134,7 @@ boot_delay=0
 
 - Puis modifiez également ces lignes déjà présentes en ajoutant un "**#**" devant **dtoverlay=vc4-fkms-v3d** comme suit :
 
-``` yaml
+``` yaml hl_lines="2" title="config.txt"
 # Enable DRM VC4 V3D driver
 #dtoverlay=vc4-kms-v3d
 max_framebuffers=2
