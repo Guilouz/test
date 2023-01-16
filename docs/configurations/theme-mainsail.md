@@ -13,7 +13,7 @@ Vous trouverez plus d'informations sur la documentation officelle : :material-we
 
 {==
 
-:octicons-info-16:Il comprend un arrière-plan, une barre de navigation à l’effigie de la Super Racer et un logo FLSUN.
+:octicons-info-16: Il comprend un arrière-plan, une barre de navigation à l’effigie de la Super Racer et un logo FLSUN.
 
 ==}
 
