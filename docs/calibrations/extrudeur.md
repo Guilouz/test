@@ -65,7 +65,7 @@ filament_diameter: 1.750
 
 ## Exemple :
 
-- Après avoir extruder 100 mm, je mesure une distance de **18** mm entre l’entrée de mon extrudeur et le trait sur le filament.
+- Après avoir extrudé 100 mm, je mesure une distance de **18** mm entre l’entrée de mon extrudeur et le trait sur le filament.
 
 - J’ai donc :
 
@@ -85,7 +85,7 @@ filament_diameter: 1.750
 
     {==rotation_distance_actuelle==} :fontawesome-solid-xmark: {==distance_extrusion==} :fontawesome-solid-divide: {==distance_demandée==}
 
-    7.805 :fontawesome-solid-xmark: 102 :fontawesome-solid-divide: 100 :fontawesome-solid-arrow-right-long: **7.961**
+    7.805 :fontawesome-solid-xmark: 102 :fontawesome-solid-divide: 100 :fontawesome-solid-arrow-right-long: **7.9611**
 
 - Je remplace donc la ligne **rotation_distance: 7.805** du fichier **printer.cfg** par **rotation_distance: 7.961**.
 
