@@ -37,7 +37,7 @@ sudo reboot
 
 - Ouvrez le fichier **moonraker.conf** et modifiez la section **[update_manager KlipperScreen]** comme suit :
 
-``` yaml
+``` yaml title="moonraker.conf"
 [update_manager KlipperScreen]
 type: git_repo
 path: /home/pi/KlipperScreen
@@ -106,7 +106,7 @@ sudo nano /boot/cmdline.txt
 
 - Sur la fenêtre qui s'affiche, remplacez le paramètre **console=tty1** par **console=tty3** puis ajoutez ces éléments à la fin de la ligne :
 
-``` yaml
+``` yaml title="cmdline.txt"
 logo.nologo loglevel=0 vt.global_cursor_default=0 splash silent quiet
 ```
 
@@ -122,7 +122,7 @@ sudo nano /boot/config.txt
 
 - Sur la fenêtre qui s'affiche, ajoutez ces éléments au début du fichier :
 
-``` yaml
+``` yaml title="config.txt"
 ## Splashcreen settings
 initramfs initramfs.img
 dtoverlay=disable-pcie-overlay
@@ -162,7 +162,7 @@ sudo reboot
 
 - Il est également nécessaire d’ajouter cela au début du fichier :
 
-``` yaml
+``` yaml title="config.txt"
 hdmi_force_hotplug=1 
 config_hdmi_boost=10
 hdmi_group=2 
@@ -174,7 +174,7 @@ hdmi_cvt 1024 600 60 6 0 0
 
 - Il est également nécessaire d’ajouter cela au début du fichier  :
 
-``` yaml
+``` yaml title="config.txt"
 hdmi_group=2
 hdmi_mode=87
 hdmi_cvt 1024 600 60 6 0 0 0
