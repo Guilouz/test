@@ -99,14 +99,14 @@ ls /dev/serial/by-id/*
 
 - Rendez-vous dans l'onglet **Machine**, ouvrez le fichier **adxl345.cfg** et modifiez la section **[mcu PIS]** :
  
-``` yaml
+``` yaml title="adxl345.cfg"
 [mcu PIS]
 serial: XXXXX
 ```
 
 En remplaçant les *XXXXX* par le serial obtenu.
 
-``` yaml
+``` yaml title="adxl345.cfg"
 [mcu PIS]
 serial: /dev/serial/by-id/usb-Klipper_rp2040_E6605481DB318D34-if00
 ```
@@ -121,7 +121,7 @@ serial: /dev/serial/by-id/usb-Klipper_rp2040_E6605481DB318D34-if00
 
 - Décommentez (supprimez le #) la ligne suivante dans le fichier **printer.cfg** pour activer la prise en charge de l’ADXL :
 
-``` yaml 
+``` yaml title="printer.cfg"
 [include adxl345.cfg]  #Activer si vous souhaitez utiliser l'ADXL (doit être désactivé après utilisation)
 ```
 
