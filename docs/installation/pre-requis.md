@@ -14,6 +14,7 @@ Vous trouverez ici la liste de matériel recommandé à la bonne utilisation de 
 - Une carte microSD d'une capacité de 16Go minimum avec une vitesse de lecture/écriture assez élevée
 - Une alimentation Raspberry Pi si branchement en externe
 - Une alimentation Meanwell RS-25-5 si branchement en interne : :simple-amazon: <a href="https://www.amazon.fr/LED-Alimentation-25W-MeanWell-RS-25-5/dp/B00MWQDAMU/" target="_blank">Amazon</a> ou :material-web: <a href="https://fr.aliexpress.com/item/4000383454624.html" target="_blank">AliExpress</a>
+- Fichier STL du support pour MKS et Raspberry Pi si branchement en interne : :material-download: <a href="https://github.com/Guilouz/Klipper-Flsun-Super-Racer/raw/main/Downloads/Support_SR_MKS_&_RPi_by_Guilouz.rar" target="_blank">Support SR MKS & RPi</a>
 
 ### Matériels facultatifs mais fortement recommandés :
 
