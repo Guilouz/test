@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Installation des dépendances
+# Update OS
 
 Cette étape permet d'installer les dernières mises à jour disponibles, de supprimer les dépendances et fichiers inutiles afin d'avoir un système d'expoitation "propre" et sain.
 

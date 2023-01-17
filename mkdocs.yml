@@ -1,8 +1,8 @@
-site_name: Klipper - FLSUN Super Racer
+site_name: FLSUN Speeder Pad
 site_description: Documentation
 
-repo_name: Pack de Configurations
-repo_url: https://github.com/Guilouz/Klipper-Flsun-Super-Racer/releases
+repo_name: Configurations Pack
+repo_url: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad/releases
 
 theme:
     name: material
@@ -17,15 +17,15 @@ theme:
     palette:
         - media: "(prefers-color-scheme: light)"
           scheme: default
-          primary: green
-          accent: green
+          primary: blue
+          accent: blue
           toggle:
             icon: material/brightness-7
             name: Dark Mode
         - media: "(prefers-color-scheme: dark)"
           scheme: slate
-          primary: green
-          accent: green
+          primary: blue
+          accent: blue
           toggle:
             icon: material/brightness-4
             name: Light Mode
@@ -58,7 +58,7 @@ plugins:
             - zoom-off
         auto_caption: false
         caption_position: bottom
-copyright: Guislain Cyril &copy; Tous droits réservés
+copyright: Guislain Cyril &copy; All rights reserved
 extra:
   generator: false
   social:
@@ -91,46 +91,57 @@ markdown_extensions:
         emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
-    - Informations: index.md
-    - Liens utiles: liens-utiles.md
+    - About: index.md
+    - Useful links: useful-links.md
     - Changelog: changelog.md
-    - Support: support.md
+    - Restoration:
+        - Prerequisites: restoration/prerequisites.md
+        - Prepare microSD card: restoration/prepare-microsd-card.md
+        - Restore Speeder Pad: restoration/restore-speeder-pad.md
+        - Configure WiFi: restoration/configure-wifi.md
+        - SSH connection: 
+            - Windows: restoration/ssh/windows.md
+            - macOS: restoration/ssh/macos.md
+        - Update OS: restoration/update-os.md
+        - Change Timezone: restoration/change-timezone.md
+        - Change WiFi location: restoration/change-wifi-location.md
     - Installation:
-        - Pré-Requis: installation/pre-requis.md
-        - MainsailOS: installation/mainsailos.md
-        - Connexion SSH: 
-            - Windows: installation/ssh/windows.md
-            - macOS: installation/ssh/macos.md
-        - Dépendances: installation/dependances.md
-    - Firmwares Klipper:
-        - MKS Robin Nano v3.x:
-            - Compilation: firmwares/compilation-mks-robin-nano.md
-            - Installation: firmwares/installation-mks-robin-nano.md
-        - BigTreeTech SKR 1.3:
-            - Compilation: firmwares/compilation-btt-skr1.3.md
-            - Installation: firmwares/installation-btt-skr1.3.md
-        - BigTreeTech SKR 2.0:
-            - Compilation: firmwares/compilation-btt-skr2.0.md
-            - Installation: firmwares/installation-btt-skr2.0.md
-    - Configurations:
-        - Récupération du Serial USB: configurations/recuperation-du-serial-usb.md
-        - Installation des fichiers: configurations/fichiers-de-configuration.md
-        - Changements coté Slicers:
-            - GCode de Début / Fin: configurations/gcode-de-debut-fin.md
-            - Rétraction Firmware: configurations/retraction-firmware.md
-            - Envoyer un Gcode vers Mainsail: configurations/envoi-gcode-mainsail.md
-        - Ecran avec KlipperScreen: configurations/ecran-avec-klipperscreen.md
-        - ADXL: configurations/adxl.md
-        - NeoPixels: configurations/neopixels.md
-        - Thème Mainsail: configurations/theme-mainsail.md
-        - Fixer l'adresse IP du Raspberry Pi: configurations/fixer-adresse-ip.md
-    - Calibrations de l'imprimante: 
-        - Calibration Extrudeur: calibrations/extrudeur.md
-        - Calibration PID: calibrations/pid.md
-        - Mesure du Z-Offset: calibrations/zoffset.md
-        - Calibration EndStops: calibrations/endstops.md
-        - Calibration Delta Automatique: calibrations/delta-automatique.md
-        - Nivellement du plateau: calibrations/nivellement.md
+        - Delete Flsun builds: installation/delete-flsun-builds.md
+        - Install official builds:
+            - Single Instance: installation/single-instance.md
+            - Multiple Instance: installation/single-instance.md
+    - Klipper Firmwares:
+        - V400:
+            - MKS Robin Nano v2.x: firmwares/mks-robin-nano-v2x.md
+            - BigTreeTech SKR 3.0: firmwares/bigtreetech-skr-3.0.md
+        - Super Racer:
+            - MKS Robin Nano v3.x: firmwares/mks-robin-nano-v3x.md
+            - BigTreeTech SKR 1.3: firmwares/bigtreetech-skr-1.3.md
+            - BigTreeTech SKR 2.0: firmwares/bigtreetech-skr-2.0.md
+    - Configuration:
+        - Recover USB serial: configuration/recover-usb-serial.md
+        - Installing files:
+            - Single Instance: configuration/single-instance.md
+            - Multiple Instance: configuration/single-instance.md
+        - Slicers side changes:
+            - Start / End GCode: configuration/start-end-gcode.md
+            - Firmware Retraction: configuration/firmware-retraction.md
+            - Send Gcode to Mainsail: configuration/send-gcode-to-mainsail.md
+        - ADXL:
+            - Raspberry Pi Pico: configuration/raspberry-pi-pico.md
+            - Fysetc Portable Input Shaper: configuration/fysetc-portable-input-shaper.md
+        - Webcams support: configuration/webcams-support.md
+        - Timelapse support: configuration/timelapse-support.md
+        - NeoPixels: configuration/neopixels.md
+        - Mainsail theme : configuration/mainsail-theme.md
+    - Printer Calibrations: 
+        - Extruder calibration: calibrations/extruder-calibration.md
+        - PID calibration: calibrations/pid-calibration.md
+        - Z-Offset measurement: calibrations/zoffset-measurement.md
+        - EndStops calibration: calibrations/endstops-calibration.md
+        - Delta automatic calibration: calibrations/delta-automatic-calibration.md
+        - Bed leveling: calibrations/bed-leveling.md
         - Input Shaping: calibrations/input-shaping.md
         - Pressure Advance: calibrations/pressure-advance.md
-        - Explications des fichiers: calibrations/explications-des-fichiers.md
+        - Explanations of files: calibrations/explanations-of-files.md
+    - Special Thanks: special-thanks.md
