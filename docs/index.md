@@ -22,7 +22,6 @@ This website explains the whole process in order to obtain Root access on the Sp
     - MKS Robin Nano v3.0/v3.1 + BondTech LGX Lite Extruder
     - MKS Robin Nano v3.0/v3.1 + BondTech LGX Lite Extruder + TriangleLab CHC Heatblock
 
-<br />
 
 - **Configuration files for V400:**
     - BigTreeTech SKR 3.0 - Stock
