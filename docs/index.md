@@ -9,7 +9,7 @@ By default, FLSUN does not use builds from official GitHub repositories. Updates
 
 This website explains the whole process in order to obtain Root access on the Speeder Pad, to configure it correctly with optimized printer settings.
 
-Available configurations:
+## Available configurations:
 
 - **Configuration files for Super Racer:**
     - BigTreeTech SKR 1.3 - Stock
@@ -37,5 +37,6 @@ If you like my work, don't hesitate to support me by paying me a 🍺 or a ☕. 
 
 <br />
 
-You can start by consulting the section :material-arrow-right-box: [Useful links](useful-links.md).
+You can start by consulting :material-arrow-right-box: [Useful links](useful-links.md) section.
 
+<br />
