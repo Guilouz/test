@@ -3,32 +3,39 @@ hide:
   - toc
 ---
 
-# Informations
+# About
 
-En collaboration avec la chaîne :simple-youtube: <a href="https://www.youtube.com/@Jstech3d" target="_blank">YouTube JSTECH</a>, vous trouverez ici toutes les étapes et le nécessaire à l’utilisation de Klipper sur la FLSUN Super Racer.
+By default, FLSUN does not use builds from official GitHub repositories. Updates point to Gitee repositories which are very slow, sometimes inaccessible and not updated. In addition, during Delta Calibration, tower angles and delta radius are never recalculated in their Klipper build, which can cause several issues.
 
-Le pack comprend :
+This website explains the whole process in order to obtain Root access on the Speeder Pad, to configure it correctly with optimized printer settings.
 
-- Les fichiers de configuration pour les cartes mères **BigTreeTech SKR 1.3** en version **Stock**
-- Les fichiers de configuration pour les cartes mères **BigTreeTech SKR 1.3** + **Bondtech LGX Lite**
-- Les fichiers de configuration pour les cartes mères **BigTreeTech SKR 1.3** + **Bondtech LGX Lite** + **TriangleLab CHC Pro**
-- Les fichiers de configuration pour les cartes mères **BigTreeTech SKR 2.0** en version **Stock**
-- Les fichiers de configuration pour les cartes mères **BigTreeTech SKR 2.0** + **Bondtech LGX Lite**
-- Les fichiers de configuration pour les cartes mères **BigTreeTech SKR 2.0** + **Bondtech LGX Lite** + **TriangleLab CHC Pro**
-- Les fichiers de configuration pour les cartes mères **MKS Robin Nano V3.0/V3.1** en version **Stock**
-- Les fichiers de configuration pour les cartes mères **MKS Robin Nano V3.0/V3.1** + **Bondtech LGX Lite**
-- Les fichiers de configuration pour les cartes mères **MKS Robin Nano V3.0/V3.1** + **Bondtech LGX Lite** + **TriangleLab CHC Pro**
-- Certains STL nécessaires
+Available configurations:
 
+- **Configuration files for Super Racer:**
+    - BigTreeTech SKR 1.3 - Stock
+    - BigTreeTech SKR 1.3 + BondTech LGX Lite Extruder
+    - BigTreeTech SKR 1.3 + BondTech LGX Lite Extruder + TriangleLab CHC Heatblock
+    - BigTreeTech SKR 2.0 - Stock
+    - BigTreeTech SKR 2.0 + BondTech LGX Lite Extruder
+    - BigTreeTech SKR 2.0 + BondTech LGX Lite Extruder + TriangleLab CHC Heatblock
+    - MKS Robin Nano v3.0/v3.1 - Stock
+    - MKS Robin Nano v3.0/v3.1 + BondTech LGX Lite Extruder
+    - MKS Robin Nano v3.0/v3.1 + BondTech LGX Lite Extruder + TriangleLab CHC Heatblock
+
+- **Configuration files for V400:**
+    - BigTreeTech SKR 3.0 - Stock
+    - BigTreeTech SKR 3.0 + TriangleLab CHC Heatblock
+    - BigTreeTech SKR 3.0 + BigTreeTech TMC2226 drivers + TriangleLab CHC Heatblock
+    - MKS Robin Nano v2.0/v2.1 - Stock
+    - MKS Robin Nano v2.0/v2.1 + TriangleLab CHC Heatblock
 
 <br />
 
-Si vous aimez mon travail, n'hésitez pas à me soutenir en me payant une 🍺 ou un ☕. Merci 🙂
+If you like my work, don't hesitate to support me by paying me a 🍺 or a ☕. Thanks 🙂
 
-[Faire un don :simple-paypal: PayPal](https://www.paypal.me/CyrilGuislain){ .md-button .md-button--primary }
+[Make a :simple-paypal: PayPal donation](https://www.paypal.me/CyrilGuislain){ .md-button .md-button--primary }
 
 <br />
 
-Vous pouvez commencer par consulter la section :material-arrow-right-box: [Liens Utiles](liens-utiles.md).
-
+You can start by consulting the section :material-arrow-right-box: [Useful links](useful-links.md).
 
