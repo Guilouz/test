@@ -6,7 +6,7 @@ repo_url: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad/releases
 
 theme:
     name: material
-    language: fr
+    language: en
     logo: assets/img/logo.png
     favicon: assets/img/favicon.png
     icon:
