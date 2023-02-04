@@ -3,24 +3,28 @@ hide:
   - toc
 ---
 
-# Lien utiles
+# Useful Links
 
-Avant d'utiliser Klipper, veuillez consulter ces documentations :
+Before using Klipper please read this documentations:
 
-- Klipper (Système Opérateur) : <a href="https://www.klipper3d.org/" target="_blank">https://www.klipper3d.org/</a>
-- Moonraker (Serveur Web API) : <a href="https://moonraker.readthedocs.io/" target="_blank">https://moonraker.readthedocs.io/</a>
-- Mainsail (Interface Web) : <a href="https://docs.mainsail.xyz/" target="_blank">https://docs.mainsail.xyz/</a>
-- KlipperScreen (Interface Ecran): <a href="https://klipperscreen.readthedocs.io/" target="_blank">https://klipperscreen.readthedocs.io/</a>
-
-<br />
-
-# Vidéos :simple-youtube: YouTube JSTECH
-
-- <a href="https://www.youtube.com/watch?v=MDrla0SI0yc&t=5s" target="_blank">On Jase ! De Klipper, je vous donne mon opinion</a>
-- <a href="https://www.youtube.com/watch?v=qM-jBRMGjTc" target="_blank">Klipper première vidéo, je prépare mon imprimante</a>
-- <a href="https://www.youtube.com/watch?v=8YD-KOxrrXk" target="_blank">Enfin ! J'installe Klipper dans ma Flsun SR</a>
-- A venir...                                                                
+- Klipper (Operating System): <a href="https://www.klipper3d.org/" target="_blank">https://www.klipper3d.org/</a>
+- Moonraker (API Web Server): <a href="https://moonraker.readthedocs.io/" target="_blank">https://moonraker.readthedocs.io/</a>
+- Mainsail (Web Interface): <a href="https://docs.mainsail.xyz/" target="_blank">https://docs.mainsail.xyz/</a>
+- KlipperScreen (Screen Interface): <a href="https://klipperscreen.readthedocs.io/" target="_blank">https://klipperscreen.readthedocs.io/</a>
 
 <br />
 
-Vous pouvez consulter la section :material-arrow-right-box: [Pré-Requis](installation/pre-requis.md).
+# STL Files
+
+Many usefull STL for FLSUN Super Racer and V400 can be found here:
+
+- My Printables profile: <a href="https://www.printables.com/social/352655-guilouz/models" target="_blank">Printables</a>
+- My Thingiverse profile: <a href="https://www.thingiverse.com/guilouz/designs" target="_blank">Thingiverse</a>
+- ADXL345 Mount for Super Racer : <a href="https://www.printables.com/model/245136-adxl345-mount-for-flsun-super-racer" target="_blank">Printables</a>
+- Fysetc Portable Input Shaper Mount for Super Racer : <a href="https://www.thingiverse.com/thing:5634625" target="_blank">Thingiverse</a>                                                           
+
+<br />
+
+You can start by consulting :material-arrow-right-box: [Prerequisites](restoration/prerequisites.md) section.
+
+<br />
