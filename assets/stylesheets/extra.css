@@ -1,0 +1,11 @@
+.md-nav__title {
+    	color: #2094f3;
+}
+
+.md-nav__item--section>.md-nav__link[for] {
+    color: #2094f3;
+}
+
+.md-typeset h1 {
+    font-weight: bold;
+}
